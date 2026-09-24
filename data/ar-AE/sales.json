@@ -1,0 +1,1530 @@
+[
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 10100
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 25875
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 7350
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 3675
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 9175
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 9725
+  },
+  {
+    "date": "2019-11-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 48450
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 3850
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 55050
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 3850
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 4400
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 42200
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9350
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9175
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 3675
+  },
+  {
+    "date": "2019-12-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 13675
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 16525
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 18350
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 7350
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 44775
+  },
+  {
+    "date": "2019-12-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 83125
+  },
+  {
+    "date": "2019-12-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 28625
+  },
+  {
+    "date": "2019-12-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 50825
+  },
+  {
+    "date": "2019-12-15T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 17425
+  },
+  {
+    "date": "2019-12-19T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 7525
+  },
+  {
+    "date": "2019-12-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 7350
+  },
+  {
+    "date": "2019-12-28T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 5500
+  },
+  {
+    "date": "2019-12-28T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 69725
+  },
+  {
+    "date": "2020-01-02T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 25875
+  },
+  {
+    "date": "2020-01-02T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 7350
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 3675
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 10100
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9725
+  },
+  {
+    "date": "2020-01-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 19450
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 38175
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 36700
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3850
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 18350
+  },
+  {
+    "date": "2020-01-20T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3850
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 4400
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 42200
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 3675
+  },
+  {
+    "date": "2020-01-25T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 9350
+  },
+  {
+    "date": "2020-01-25T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 9175
+  },
+  {
+    "date": "2020-01-27T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 13675
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 16525
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 18350
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 7350
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 44775
+  },
+  {
+    "date": "2020-02-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 50100
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 22025
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 33025
+  },
+  {
+    "date": "2020-02-28T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 6600
+  },
+  {
+    "date": "2020-02-28T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 17425
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 7350
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 50825
+  },
+  {
+    "date": "2020-03-14T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 7525
+  },
+  {
+    "date": "2020-03-14T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 33025
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 5500
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 36700
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 7350
+  },
+  {
+    "date": "2020-04-14T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 18350
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 3675
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 10100
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 7525
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 9725
+  },
+  {
+    "date": "2020-05-22T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 26425
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 31200
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 55050
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 3850
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 3850
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 4400
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 42200
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 5700
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 3675
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3675
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 9175
+  },
+  {
+    "date": "2020-07-17T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 10000
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 3675
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 16525
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 18350
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 7350
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 44775
+  },
+  {
+    "date": "2020-08-29T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 50100
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 28625
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 33025
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 31550
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 17425
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 4950
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 7350
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 19275
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 2575
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 33025
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 5500
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 36700
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 7350
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 10100
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 25875
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 3675
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 26425
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 9725
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 31200
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 36700
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 3850
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 18350
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 3850
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 4400
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 22025
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 5700
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 20175
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 3675
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 3675
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 4225
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 9175
+  },
+  {
+    "date": "2020-12-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9450
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 16525
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 18350
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 7350
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 44775
+  },
+  {
+    "date": "2021-01-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 50100
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 12100
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 33025
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 16525
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 7350
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 50825
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 10100
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 7525
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 7350
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 5500
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 69725
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 25875
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 7350
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 10100
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9725
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 3675
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 26425
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 31200
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 55050
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3850
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3850
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 5700
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 4400
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 22025
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 3675
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 9175
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 23500
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 7350
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 39625
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 18725
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 33025
+  },
+  {
+    "date": "2021-06-22T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 17425
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 25875
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 7350
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 3675
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 10100
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9725
+  },
+  {
+    "date": "2021-07-09T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 26425
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 31200
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 55050
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3850
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الفجيرة",
+    "stateCoords": "56.3269, 25.1288",
+    "city": "الفجيرة",
+    "total": 3850
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 5700
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 4400
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 22025
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 3675
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 9175
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 23500
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 7350
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 39625
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 18725
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 33025
+  },
+  {
+    "date": "2021-09-18T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "مدينة زايد",
+    "total": 17425
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 25875
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "الشارقة",
+    "total": 7350
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 3675
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 10100
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة الشارقة",
+    "stateCoords": "55.4033, 25.3463",
+    "city": "خورفكان",
+    "total": 9725
+  },
+  {
+    "date": "2021-10-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة رأس الخيمة",
+    "stateCoords": "55.9432, 25.7895",
+    "city": "رأس الخيمة",
+    "total": 57625
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 1825
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة عجمان",
+    "stateCoords": "55.5136, 25.4052",
+    "city": "عجمان",
+    "total": 55050
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 3850
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 6425
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 9350
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 9175
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة دبي",
+    "stateCoords": "55.2708, 25.2048",
+    "city": "دبي",
+    "total": 22025
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "category": "Automation",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 7350
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "أبوظبي",
+    "total": 44775
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 12100
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "العين",
+    "total": 51375
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "category": "Projectors",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 6600
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "category": "Video Players",
+    "stateName": "إمارة أبوظبي",
+    "stateCoords": "54.3773, 24.4539",
+    "city": "الرويس",
+    "total": 17425
+  }
+]

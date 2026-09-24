@@ -1,0 +1,492 @@
+[
+  {
+    "id": 3,
+    "name": "אורי מלר",
+    "position": "סמנכ\"ל טכנולוגיות",
+    "status": "Salaried",
+    "company": "סופרמג המזרח",
+    "phone": "03-555-8583",
+    "email": "urim@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 4,
+    "name": "רועי רגב",
+    "position": "סמנכ\"ל שיווק",
+    "status": "Salaried",
+    "company": "מחסני אלקטרוניקה",
+    "phone": "03-555-2387",
+    "email": "roir@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 5,
+    "name": "גלית סימן טוב",
+    "position": "מנהל משאבי אנוש",
+    "status": "Salaried",
+    "company": "כ&ש מוזיקה",
+    "phone": "03-555-6546",
+    "email": "galits@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 6,
+    "name": "גיא ויזל",
+    "position": "מנהל מערכות מידע",
+    "status": "Salaried",
+    "company": "מועדון תומר",
+    "phone": "03-555-0358",
+    "email": "guyv@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 7,
+    "name": "שירה לוי",
+    "position": "חשב",
+    "status": "Salaried",
+    "company": "אי-מארט",
+    "phone": "03-555-2082",
+    "email": "shiral@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 8,
+    "name": "אליעזר הולצמן",
+    "position": "מנהל מכירות",
+    "status": "Salaried",
+    "company": "וולטרס",
+    "phone": "03-555-1288",
+    "email": "eliezerh@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 9,
+    "name": "בתיה ברקוביץ",
+    "position": "מנהל תמיכה",
+    "status": "Salaried",
+    "company": "סטריאו-שק",
+    "phone": "03-555-3355",
+    "email": "batyab@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 10,
+    "name": "ניר כרמי",
+    "position": "מנהל משלוחים",
+    "status": "Salaried",
+    "company": "קריית החשמל",
+    "phone": "03-555-2840",
+    "email": "nirk@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 11,
+    "name": "סיגל שטיינברג",
+    "position": "עוזר משאבי אנוש",
+    "status": "Salaried",
+    "company": "קנייה מושלמת",
+    "phone": "03-555-6655",
+    "email": "sigals@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 12,
+    "name": "שמואל גבעוני",
+    "position": "עוזר מכירות",
+    "status": "Salaried",
+    "company": "אלקטריקסמקס",
+    "phone": "03-555-7292",
+    "email": "shmuelg@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 13,
+    "name": "דוד כהן",
+    "position": "עוזר משלוחים",
+    "status": "Salaried",
+    "company": "היכל הווידאו",
+    "phone": "03-555-0281",
+    "email": "davidc@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 14,
+    "name": "ויקטור נוריאל",
+    "position": "עוזר משלוחים",
+    "status": "Salaried",
+    "company": "חנות המסכים",
+    "phone": "03-555-9278",
+    "email": "viktorn@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 15,
+    "name": "מרים שטרן",
+    "position": "עוזר משלוחים",
+    "status": "Salaried",
+    "company": "חרמון",
+    "phone": "03-555-7857",
+    "email": "miriams@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 16,
+    "name": "רון קוסטה",
+    "position": "עוזר משלוחים",
+    "status": "Salaried",
+    "company": "מחירקו",
+    "phone": "03-555-0942",
+    "email": "ronk@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 17,
+    "name": "כלנית רוזן",
+    "position": "נציג תמיכה",
+    "status": "Salaried",
+    "company": "גאדג'ט פרו",
+    "phone": "03-555-9248",
+    "email": "kalanitr@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 18,
+    "name": "יאיר אלון",
+    "position": "נציג תמיכה",
+    "status": "Salaried",
+    "company": "קל וקח",
+    "phone": "03-555-4702",
+    "email": "yaira@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 19,
+    "name": "איתן רמון",
+    "position": "נציג תמיכה",
+    "status": "Salaried",
+    "company": "קליקר",
+    "phone": "03-555-6625",
+    "email": "eitanr@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 20,
+    "name": "אורלי פלד",
+    "position": "עוזר מכירות",
+    "status": "Salaried",
+    "company": "חנות ישראל",
+    "phone": "03-555-2728",
+    "email": "orlyp@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 21,
+    "name": "תמר רייך",
+    "position": "מנהל רשתות",
+    "status": "Salaried",
+    "company": "אזור הצעצועים",
+    "phone": "03-555-7276",
+    "email": "tamarr@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 22,
+    "name": "מיכל הרפז",
+    "position": "מנהל רשתות",
+    "status": "Salaried",
+    "company": "אקמה",
+    "phone": "03-555-4276",
+    "email": "michalh@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 23,
+    "name": "זאב חובב",
+    "position": "מתכנת",
+    "status": "Salaried",
+    "company": "סופרמג המזרח",
+    "phone": "03-555-8872",
+    "email": "zeevh@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 24,
+    "name": "בניה יעקובי",
+    "position": "מתכנת",
+    "status": "Salaried",
+    "company": "מחסני אלקטרוניקה",
+    "phone": "03-555-4646",
+    "email": "benayay@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 25,
+    "name": "קרן גוטמן",
+    "position": "מתכנת",
+    "status": "Salaried",
+    "company": "כ&ש מוזיקה",
+    "phone": "03-555-0908",
+    "email": "kereng@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 26,
+    "name": "מרדכי אורבך",
+    "position": "רכז נסיעות",
+    "status": "Salaried",
+    "company": "מועדון תומר",
+    "phone": "03-555-7098",
+    "email": "mordechaio@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 27,
+    "name": "שירה זהר",
+    "position": "רכז תנאים סוציאליים",
+    "status": "Salaried",
+    "company": "אי-מארט",
+    "phone": "03-555-0524",
+    "email": "shiraz@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 28,
+    "name": "מתן קנדל",
+    "position": "מעצב גרפי",
+    "status": "Salaried",
+    "company": "וולטרס",
+    "phone": "03-555-8238",
+    "email": "matank@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 29,
+    "name": "ורד בן דוד",
+    "position": "מעצב גרפי זוטר",
+    "status": "Salaried",
+    "company": "סטריאו-שק",
+    "phone": "03-555-2478",
+    "email": "veredb@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 30,
+    "name": "קובי שמואלי",
+    "position": "נציב תלונות",
+    "status": "Salaried",
+    "company": "קריית החשמל",
+    "phone": "03-555-9282",
+    "email": "kobis@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 31,
+    "name": "נטע מנור",
+    "position": "מדריך",
+    "status": "Salaried",
+    "company": "קנייה מושלמת",
+    "phone": "03-555-8377",
+    "email": "netam@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 32,
+    "name": "בועז אזולאי",
+    "position": "מנהל הנדסה",
+    "status": "Salaried",
+    "company": "אלקטריקסמקס",
+    "phone": "03-555-2000",
+    "email": "boaza@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 33,
+    "name": "לאה שמעוני",
+    "position": "רכז בדיקות",
+    "status": "Salaried",
+    "company": "היכל הווידאו",
+    "phone": "03-559-5830",
+    "email": "leas@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 34,
+    "name": "אריה שוורץ",
+    "position": "מהנדס",
+    "status": "Salaried",
+    "company": "חנות המסכים",
+    "phone": "03-555-8882",
+    "email": "aries@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 35,
+    "name": "יובל צימרמן",
+    "position": "מהנדס",
+    "status": "Salaried",
+    "company": "חרמון",
+    "phone": "03-555-6939",
+    "email": "yuvalt@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 36,
+    "name": "שני פרץ",
+    "position": "מהנדס",
+    "status": "Salaried",
+    "company": "מחירקו",
+    "phone": "03-555-4512",
+    "email": "shanip@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 37,
+    "name": "מרגלית בוקסר",
+    "position": "מהנדס",
+    "status": "Salaried",
+    "company": "גאדג'ט פרו",
+    "phone": "03-555-7239",
+    "email": "margalitb@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 38,
+    "name": "תומר בר לב",
+    "position": "מהנדס בדיקות",
+    "status": "Salaried",
+    "company": "קל וקח",
+    "phone": "03-555-2788",
+    "email": "tomerb@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 39,
+    "name": "גבריאל כהן",
+    "position": "רכז קמעונאות",
+    "status": "Salaried",
+    "company": "קליקר",
+    "phone": "03-555-5395",
+    "email": "gavrielc@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 40,
+    "name": "לירז בר",
+    "position": "עוזר מכירות",
+    "status": "Salaried",
+    "company": "חנות ישראל",
+    "phone": "03-555-3357",
+    "email": "lirazb@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 41,
+    "name": "יאיר פרידמן",
+    "position": "מנהל מכירות קמעונאיות",
+    "status": "Commission",
+    "company": "אזור הצעצועים",
+    "phone": "03-555-8224",
+    "email": "yairf@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 42,
+    "name": "חנה ברוקנר",
+    "position": "מנהל מכירות מקוונות",
+    "status": "Commission",
+    "company": "אקמה",
+    "phone": "03-555-3627",
+    "email": "hanab@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 43,
+    "name": "חיים מודן",
+    "position": "מנהל מכירות קמעונאיות",
+    "status": "Commission",
+    "company": "סופרמג המזרח",
+    "phone": "03-555-3895",
+    "email": "haimm@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 44,
+    "name": "כפיר מור",
+    "position": "מנהל מכירות קמעונאיות",
+    "status": "Commission",
+    "company": "מחסני אלקטרוניקה",
+    "phone": "03-555-2525",
+    "email": "kfirm@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 45,
+    "name": "טל הופמן",
+    "position": "מנהל מכירות קמעונאיות",
+    "status": "Commission",
+    "company": "כ&ש מוזיקה",
+    "phone": "03-555-3579",
+    "email": "talh@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 46,
+    "name": "יעקב גרינברג",
+    "position": "נציג תמיכה",
+    "status": "Salaried",
+    "company": "מועדון תומר",
+    "phone": "03-555-1824",
+    "email": "yaakovg@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 47,
+    "name": "לירן בן עמי",
+    "position": "עוזר מכירות",
+    "status": "Salaried",
+    "company": "אי-מארט",
+    "phone": "03-555-8272",
+    "email": "liranb@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 48,
+    "name": "ברק פרקש",
+    "position": "מהנדס",
+    "status": "Terminated",
+    "company": "וולטרס",
+    "phone": "03-555-3626",
+    "email": "barakf@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 49,
+    "name": "יעל חובב",
+    "position": "עוזר משלוחים",
+    "status": "Terminated",
+    "company": "סטריאו-שק",
+    "phone": "03-555-2668",
+    "email": "yaelh@dx-email.com",
+    "assignedTo": "שני זהר"
+  },
+  {
+    "id": 50,
+    "name": "דן לוין",
+    "position": "עוזר משלוחים",
+    "status": "Terminated",
+    "company": "קריית החשמל",
+    "phone": "03-555-8357",
+    "email": "danl@dx-email.com",
+    "assignedTo": "יוני לב"
+  },
+  {
+    "id": 51,
+    "name": "שאול פישר",
+    "position": "מהנדס",
+    "status": "Terminated",
+    "company": "קנייה מושלמת",
+    "phone": "03-555-2552",
+    "email": "shaulf@dx-email.com",
+    "assignedTo": "שני זהר"
+  }
+]

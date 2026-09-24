@@ -1,0 +1,492 @@
+[
+  {
+    "id": 3,
+    "name": "عمر المرزوقي",
+    "position": "مدير التقنية التنفيذي",
+    "status": "Salaried",
+    "company": "سوبر مارت الخليج",
+    "phone": "04-5558583",
+    "email": "omarm@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 4,
+    "name": "راشد الرميثي",
+    "position": "مدير التسويق التنفيذي",
+    "status": "Salaried",
+    "company": "مستودع الإلكترونيات",
+    "phone": "04-5552387",
+    "email": "rashidr@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 5,
+    "name": "غالية السعدي",
+    "position": "مدير الموارد البشرية",
+    "status": "Salaried",
+    "company": "K&S Music",
+    "phone": "04-5556546",
+    "email": "ghalias@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 6,
+    "name": "خالد اليماحي",
+    "position": "مدير تقنية المعلومات",
+    "status": "Salaried",
+    "company": "نادي طارق",
+    "phone": "04-5550358",
+    "email": "khalidy@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 7,
+    "name": "سارة الجنيبي",
+    "position": "المراقب المالي",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "04-5552082",
+    "email": "saraj@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 8,
+    "name": "عبدالله الهاملي",
+    "position": "مدير المبيعات",
+    "status": "Salaried",
+    "company": "Walters",
+    "phone": "04-5551288",
+    "email": "abdullah@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 9,
+    "name": "بدور الكعبي",
+    "position": "مدير الدعم",
+    "status": "Salaried",
+    "company": "StereoShack",
+    "phone": "04-5553355",
+    "email": "budoork@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 10,
+    "name": "خليفة الكتبي",
+    "position": "مدير الشحن",
+    "status": "Salaried",
+    "company": "سوق الدوائر",
+    "phone": "04-5552840",
+    "email": "khalifak@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 11,
+    "name": "شما الطاير",
+    "position": "مساعد الموارد البشرية",
+    "status": "Salaried",
+    "company": "الشراء المميز",
+    "phone": "04-5556655",
+    "email": "shammat@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 12,
+    "name": "سالم الحمادي",
+    "position": "مساعد مبيعات",
+    "status": "Salaried",
+    "company": "ElectrixMax",
+    "phone": "04-5557292",
+    "email": "salemh@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 13,
+    "name": "ضاري الزعابي",
+    "position": "مساعد الشحن",
+    "status": "Salaried",
+    "company": "عالم الفيديو",
+    "phone": "04-5550281",
+    "email": "dhariz@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 14,
+    "name": "فيصل النعيمي",
+    "position": "مساعد الشحن",
+    "status": "Salaried",
+    "company": "متجر الشاشات",
+    "phone": "04-5559278",
+    "email": "faisaln@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 15,
+    "name": "ميرة الطنيجي",
+    "position": "مساعد الشحن",
+    "status": "Salaried",
+    "company": "حفيت",
+    "phone": "04-5557857",
+    "email": "meerat@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 16,
+    "name": "ربيع القاسمي",
+    "position": "مساعد الشحن",
+    "status": "Salaried",
+    "company": "PriceCo",
+    "phone": "04-5550942",
+    "email": "rabieq@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 17,
+    "name": "خلود الظاهري",
+    "position": "مساعد الدعم",
+    "status": "Salaried",
+    "company": "Ultimate Gadget",
+    "phone": "04-5559248",
+    "email": "kholoudd@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 18,
+    "name": "جمعة المنصوري",
+    "position": "مساعد الدعم",
+    "status": "Salaried",
+    "company": "وقفة سريعة",
+    "phone": "04-5554702",
+    "email": "jumam@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 19,
+    "name": "أنور الرئيسي",
+    "position": "مساعد الدعم",
+    "status": "Salaried",
+    "company": "Clicker",
+    "phone": "04-5556625",
+    "email": "anwarr@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 20,
+    "name": "عفراء السويدي",
+    "position": "مساعد مبيعات",
+    "status": "Salaried",
+    "company": "متجر الإمارات",
+    "phone": "04-5552728",
+    "email": "afras@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 21,
+    "name": "شيخة الريامي",
+    "position": "مسؤول الشبكات",
+    "status": "Salaried",
+    "company": "منطقة الألعاب",
+    "phone": "04-5557276",
+    "email": "sheikhar@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 22,
+    "name": "مريم الهاشمي",
+    "position": "مسؤول الشبكات",
+    "status": "Salaried",
+    "company": "ACME",
+    "phone": "04-5554276",
+    "email": "maryamh@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 23,
+    "name": "وليد الحبتور",
+    "position": "مبرمج",
+    "status": "Salaried",
+    "company": "سوبر مارت الخليج",
+    "phone": "04-5558872",
+    "email": "waleedh@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 24,
+    "name": "براء الجسمي",
+    "position": "مبرمج",
+    "status": "Salaried",
+    "company": "مستودع الإلكترونيات",
+    "phone": "04-5554646",
+    "email": "baraaj@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 25,
+    "name": "كريمة الجناحي",
+    "position": "مبرمج",
+    "status": "Salaried",
+    "company": "K&S Music",
+    "phone": "04-5550908",
+    "email": "karimaj@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 26,
+    "name": "مروان العبيدلي",
+    "position": "منسق السفر",
+    "status": "Salaried",
+    "company": "نادي طارق",
+    "phone": "04-5557098",
+    "email": "marwano@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 27,
+    "name": "سارة الشامسي",
+    "position": "منسق المزايا",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "04-5550524",
+    "email": "saras@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 28,
+    "name": "ماجد الكندي",
+    "position": "مصمم جرافيك",
+    "status": "Salaried",
+    "company": "Walters",
+    "phone": "04-5558238",
+    "email": "majidk@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 29,
+    "name": "وردة البلوشي",
+    "position": "مصمم جرافيك مبتدئ",
+    "status": "Salaried",
+    "company": "StereoShack",
+    "phone": "04-5552478",
+    "email": "wardab@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 30,
+    "name": "قيس الشحي",
+    "position": "أمين المظالم",
+    "status": "Salaried",
+    "company": "سوق الدوائر",
+    "phone": "04-5559282",
+    "email": "qaiss@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 31,
+    "name": "نورة المهيري",
+    "position": "مدرب",
+    "status": "Salaried",
+    "company": "الشراء المميز",
+    "phone": "04-5558377",
+    "email": "nouram@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 32,
+    "name": "بدر العامري",
+    "position": "مدير الهندسة",
+    "status": "Salaried",
+    "company": "ElectrixMax",
+    "phone": "04-5552000",
+    "email": "badra@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 33,
+    "name": "لطيفة السركال",
+    "position": "منسق الاختبارات",
+    "status": "Salaried",
+    "company": "عالم الفيديو",
+    "phone": "04-5595830",
+    "email": "latifas@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 34,
+    "name": "عارف الصايغ",
+    "position": "مهندس",
+    "status": "Salaried",
+    "company": "متجر الشاشات",
+    "phone": "04-5558882",
+    "email": "arefs@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 35,
+    "name": "يوسف الزرعوني",
+    "position": "مهندس",
+    "status": "Salaried",
+    "company": "حفيت",
+    "phone": "04-5556939",
+    "email": "yousefz@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 36,
+    "name": "سميرة بن غليطة",
+    "position": "مهندس",
+    "status": "Salaried",
+    "company": "PriceCo",
+    "phone": "04-5554512",
+    "email": "samirab@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 37,
+    "name": "موزة بوحميد",
+    "position": "مهندس",
+    "status": "Salaried",
+    "company": "Ultimate Gadget",
+    "phone": "04-5557239",
+    "email": "mozab@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 38,
+    "name": "طارق البريكي",
+    "position": "مهندس ضمان الجودة",
+    "status": "Salaried",
+    "company": "وقفة سريعة",
+    "phone": "04-5552788",
+    "email": "tariqb@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 39,
+    "name": "غانم الزعابي",
+    "position": "منسق التجزئة",
+    "status": "Salaried",
+    "company": "Clicker",
+    "phone": "04-5555395",
+    "email": "ghanimz@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 40,
+    "name": "لولوة البدواوي",
+    "position": "مساعد مبيعات",
+    "status": "Salaried",
+    "company": "متجر الإمارات",
+    "phone": "04-5553357",
+    "email": "lulwab@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 41,
+    "name": "جمعة الفهيم",
+    "position": "مدير مبيعات التجزئة",
+    "status": "Commission",
+    "company": "منطقة الألعاب",
+    "phone": "04-5558224",
+    "email": "jumaf@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 42,
+    "name": "هناء البستكي",
+    "position": "مدير المبيعات الإلكترونية",
+    "status": "Commission",
+    "company": "ACME",
+    "phone": "04-5553627",
+    "email": "hanaab@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 43,
+    "name": "حارب المدفع",
+    "position": "مدير مبيعات التجزئة",
+    "status": "Commission",
+    "company": "سوبر مارت الخليج",
+    "phone": "04-5553895",
+    "email": "haribm@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 44,
+    "name": "كريم المرر",
+    "position": "مدير مبيعات التجزئة",
+    "status": "Commission",
+    "company": "مستودع الإلكترونيات",
+    "phone": "04-5552525",
+    "email": "kareemm@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 45,
+    "name": "ثاني الحوسني",
+    "position": "مدير مبيعات التجزئة",
+    "status": "Commission",
+    "company": "K&S Music",
+    "phone": "04-5553579",
+    "email": "thanih@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 46,
+    "name": "جاسم الغرير",
+    "position": "مساعد الدعم",
+    "status": "Salaried",
+    "company": "نادي طارق",
+    "phone": "04-5551824",
+    "email": "jassimg@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 47,
+    "name": "لؤي بالهول",
+    "position": "مساعد مبيعات",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "04-5558272",
+    "email": "luayb@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 48,
+    "name": "بلال الفلاسي",
+    "position": "مهندس",
+    "status": "Terminated",
+    "company": "Walters",
+    "phone": "04-5553626",
+    "email": "bilalf@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 49,
+    "name": "جميلة الحبتور",
+    "position": "مساعد الشحن",
+    "status": "Terminated",
+    "company": "StereoShack",
+    "phone": "04-5552668",
+    "email": "jamilah@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  },
+  {
+    "id": 50,
+    "name": "داوود اللوتاه",
+    "position": "مساعد الشحن",
+    "status": "Terminated",
+    "company": "سوق الدوائر",
+    "phone": "04-5558357",
+    "email": "dawoodl@dx-email.com",
+    "assignedTo": "يوسف القلبي"
+  },
+  {
+    "id": 51,
+    "name": "سيف المزروعي",
+    "position": "مهندس",
+    "status": "Terminated",
+    "company": "الشراء المميز",
+    "phone": "04-5552552",
+    "email": "saifm@dx-email.com",
+    "assignedTo": "سميرة الشامسي"
+  }
+]

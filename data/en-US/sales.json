@@ -1,0 +1,1530 @@
+[
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2750.0
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 7050.0
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2000.0
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 1000.0
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2500.0
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2650.0
+  },
+  {
+    "date": "2019-11-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 13200.0
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 1050.0
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 15000.0
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Automation",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 1050.0
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 1200.0
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 11500.0
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Automation",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2550.0
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2500.0
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1000.0
+  },
+  {
+    "date": "2019-12-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 3725.0
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 4500.0
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 5000.0
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Automation",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 2000.0
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 12200.0
+  },
+  {
+    "date": "2019-12-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 22650.0
+  },
+  {
+    "date": "2019-12-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 7800.0
+  },
+  {
+    "date": "2019-12-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 13850.0
+  },
+  {
+    "date": "2019-12-15T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 4750.0
+  },
+  {
+    "date": "2019-12-19T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2050.0
+  },
+  {
+    "date": "2019-12-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2000.0
+  },
+  {
+    "date": "2019-12-28T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 1500.0
+  },
+  {
+    "date": "2019-12-28T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 19000.0
+  },
+  {
+    "date": "2020-01-02T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 7050.0
+  },
+  {
+    "date": "2020-01-02T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2750.0
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2650.0
+  },
+  {
+    "date": "2020-01-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 5300.0
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Projectors",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 10400.0
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 10000.0
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Monitors",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1050.0
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 5000.0
+  },
+  {
+    "date": "2020-01-20T00:00:00",
+    "category": "Automation",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1050.0
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 1200.0
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 11500.0
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-01-25T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2550.0
+  },
+  {
+    "date": "2020-01-25T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2500.0
+  },
+  {
+    "date": "2020-01-27T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 3725.0
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 4500.0
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 5000.0
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Automation",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 12200.0
+  },
+  {
+    "date": "2020-02-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 13650.0
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Projectors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 6000.0
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Televisions",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 9000.0
+  },
+  {
+    "date": "2020-02-28T00:00:00",
+    "category": "Projectors",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 1800.0
+  },
+  {
+    "date": "2020-02-28T00:00:00",
+    "category": "Video Players",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 4750.0
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 13850.0
+  },
+  {
+    "date": "2020-03-14T00:00:00",
+    "category": "Automation",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 2050.0
+  },
+  {
+    "date": "2020-03-14T00:00:00",
+    "category": "Televisions",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 9000.0
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 1500.0
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 10000.0
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-04-14T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 5000.0
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2750.0
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2050.0
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2650.0
+  },
+  {
+    "date": "2020-05-22T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 7200.0
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 8500.0
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 15000.0
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "category": "Automation",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1050.0
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1050.0
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 1200.0
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "category": "Televisions",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 11500.0
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Automation",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 1550.0
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Video Players",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "category": "Automation",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "category": "Projectors",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 2500.0
+  },
+  {
+    "date": "2020-07-17T00:00:00",
+    "category": "Monitors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 2725.0
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 4500.0
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 5000.0
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 12200.0
+  },
+  {
+    "date": "2020-08-29T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 13650.0
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 7800.0
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 9000.0
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 8600.0
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 4750.0
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Automation",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1350.0
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 5250.0
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Automation",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 700.0
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 9000.0
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Automation",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 1500.0
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 10000.0
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Video Players",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 2000.0
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Projectors",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 2750.0
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Televisions",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 7050.0
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 7200.0
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Video Players",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 2650.0
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 8500.0
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 10000.0
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 1050.0
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 5000.0
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 1050.0
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 1200.0
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 6000.0
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 1550.0
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 5500.0
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Automation",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 1000.0
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 1150.0
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 2500.0
+  },
+  {
+    "date": "2020-12-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2575.0
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 4500.0
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 5000.0
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Automation",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 12200.0
+  },
+  {
+    "date": "2021-01-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 13650.0
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 3300.0
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 9000.0
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 4500.0
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 13850.0
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2750.0
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2050.0
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Monitors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 1500.0
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 19000.0
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 7050.0
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2750.0
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2650.0
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 1000.0
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 7200.0
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 8500.0
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 15000.0
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Automation",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1050.0
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Monitors",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1050.0
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Automation",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1550.0
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Monitors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1200.0
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 6000.0
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 1000.0
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2500.0
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 6400.0
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 10800.0
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 5100.0
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 9000.0
+  },
+  {
+    "date": "2021-06-22T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 4750.0
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 7050.0
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1000.0
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2750.0
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2650.0
+  },
+  {
+    "date": "2021-07-09T00:00:00",
+    "category": "Projectors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 7200.0
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "category": "Projectors",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 8500.0
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 15000.0
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "category": "Automation",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1050.0
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "Utah",
+    "stateCoords": "-111.0937, 39.3210",
+    "city": "Salt Lake City",
+    "total": 1050.0
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Automation",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1550.0
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Monitors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1200.0
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Televisions",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 6000.0
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 1000.0
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2500.0
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 6400.0
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 10800.0
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 5100.0
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 9000.0
+  },
+  {
+    "date": "2021-09-18T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Jose",
+    "total": 4750.0
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 7050.0
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Las Vegas",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Monitors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 1000.0
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Projectors",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2750.0
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Video Players",
+    "stateName": "Nevada",
+    "stateCoords": "-116.4194, 38.8026",
+    "city": "Reno",
+    "total": 2650.0
+  },
+  {
+    "date": "2021-10-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "Colorado",
+    "stateCoords": "-105.7821, 39.5501",
+    "city": "Denver",
+    "total": 15700.0
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 500.0
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "Wyoming",
+    "stateCoords": "-107.2903, 43.0760",
+    "city": "Casper",
+    "total": 15000.0
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "category": "Automation",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1050.0
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 1750.0
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Automation",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 2550.0
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Projectors",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 2500.0
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "Arizona",
+    "stateCoords": "-111.0937, 34.0489",
+    "city": "Phoenix",
+    "total": 6000.0
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "category": "Automation",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 2000.0
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Los Angeles",
+    "total": 12200.0
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 3300.0
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "Anaheim",
+    "total": 14000.0
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "category": "Projectors",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 1800.0
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "category": "Video Players",
+    "stateName": "California",
+    "stateCoords": "-119.417931, 36.778259",
+    "city": "San Diego",
+    "total": 4750.0
+  }
+]

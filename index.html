@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blazor CRM | DevExpress</title>
+    <base href="/blazor-crm-demo-rtl/" />
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+    <style>
+        html, body, #app {
+            height: 100%;
+            margin: 0;
+        }
+
+        .boot-panel {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .boot-spinner {
+            width: 2rem;
+            height: 2rem;
+            border: 0.25rem solid rgb(15 108 189 / 30%);
+            border-bottom-color: rgb(15 108 189);
+            border-radius: 50%;
+            box-sizing: border-box;
+            animation: boot-rotation 0.75s linear infinite;
+        }
+
+        @keyframes boot-rotation {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body class="medium-size">
+    <div id="app">
+        <div class="boot-panel">
+            <span class="boot-spinner"></span>
+        </div>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+</body>
+
+</html>

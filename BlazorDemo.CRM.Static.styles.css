@@ -1,0 +1,1361 @@
+/* /../BlazorDemo.CRM.Client/Components/Analytics/Pages/Dashboard.razor.rz.scp.css */
+.content-root[b-ozf9uatohm] {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar[b-ozf9uatohm] {
+    padding: 0.438rem 0.25rem;
+    margin-bottom: var(--CRM-toolbar-margin-bottom);
+}
+
+.dashboard[b-ozf9uatohm] {
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.no-overflow[b-ozf9uatohm] {
+    overflow: hidden;
+}
+
+[b-ozf9uatohm] .dashboard-loading-panel {
+    height: 100%;
+}
+
+[b-ozf9uatohm] .dashboard-grid {
+    overflow-y: auto;
+}
+
+@supports (-moz-appearance: none) {
+    [b-ozf9uatohm] .dashboard-grid {
+        padding-inline-end: 1rem;
+    }
+}
+
+[b-ozf9uatohm] .dashboard-drawer .dxbl-drawer-body {
+    padding: 0;
+}
+
+[b-ozf9uatohm] .dxbl-drawer-panel {
+    border-radius: 0.25rem;
+}
+
+[b-ozf9uatohm] .dashboard-drawer > .dxbl-drawer-panel {
+    margin-inline-start: unset;
+    transition-property: visibility, width, margin-inline-start;
+    border: 0.063rem solid var(--dxds-color-border);
+}
+
+[b-ozf9uatohm] .dashboard-drawer-opened:not(.dashboard-drawer-small) > .dxbl-drawer-panel {
+    margin-inline-start: 1rem;
+}
+
+.placeholder[b-ozf9uatohm] {
+    height: 100%;
+}
+
+[b-ozf9uatohm] .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+[b-ozf9uatohm] .card:not(.toolbar) {
+    padding: 1rem;
+    height: 100%;
+    min-height: fit-content;
+}
+
+.title[b-ozf9uatohm] {
+    font-family: var(--dxds-font-family-sans-serif);
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.small-size .title[b-ozf9uatohm] {
+    font-size: var(--dxds-font-size-base-md);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-md);
+}
+
+.medium-size .title[b-ozf9uatohm] {
+    font-size: var(--dxds-font-size-base-lg);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-lg);
+}
+
+.large-size .title[b-ozf9uatohm] {
+    font-size: var(--dxds-font-size-title-md);
+    font-weight: var(--dxds-font-weight-title-default);
+    line-height: var(--dxds-line-height-title-md);
+}
+
+[b-ozf9uatohm] .data-area-icon {
+    mask-image: url("images/icons/data-area.svg");
+}
+
+[b-ozf9uatohm] .data-pie-icon {
+    mask-image: url("images/icons/data-pie.svg");
+}
+
+[b-ozf9uatohm] .data-trending-icon {
+    mask-image: url("images/icons/data-trending.svg");
+}
+
+[b-ozf9uatohm] .data-usage-icon {
+    mask-image: url("images/icons/data-usage.svg");
+}
+
+[b-ozf9uatohm] .add-icon {
+    mask-image: url("images/icons/add.svg");
+}
+
+[b-ozf9uatohm] .export-icon {
+    mask-image: url("images/icons/arrow-export-up.svg");
+}
+
+[b-ozf9uatohm] .chat-container {
+    width: 100%;
+    height: 100%;
+}
+
+[b-ozf9uatohm] .chat {
+    width: 100%;
+    height: 100%;
+}
+
+[b-ozf9uatohm] .chat .chat-content > p:last-child {
+    margin-bottom: 0;
+}
+
+[b-ozf9uatohm] .chat .chat-content > p {
+    margin-top: 0;
+}
+
+[b-ozf9uatohm] .chat .dxbl-chatui-messages {
+    padding: var(--CRM-messagelist-padding-y) var(--CRM-messagelist-padding-x);
+}
+
+[b-ozf9uatohm] .chat .dxbl-chatui-submitarea {
+    padding: var(--CRM-submitarea-padding-y) var(--CRM-submitarea-padding-x) var(--CRM-submitarea-padding-x);
+}
+
+[b-ozf9uatohm] .chat .dxbl-chatui-header {
+    padding: var(--CRM-chatui-header-padding) var(--CRM-chatui-header-padding) var(--CRM-chatui-header-padding-bottom);
+}
+/* /../BlazorDemo.CRM.Client/Components/Analytics/Pages/SalesReport.razor.rz.scp.css */
+.content-root[b-1lt11chfhb] {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar[b-1lt11chfhb] {
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.sales-report[b-1lt11chfhb] {
+    flex-grow: 1;
+}
+
+[b-1lt11chfhb] .sales-report-loading-panel {
+    height: 100%;
+}
+
+.placeholder[b-1lt11chfhb] {
+    height: 100%;
+}
+
+[b-1lt11chfhb] .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+    [b-1lt11chfhb] .card:not(.toolbar) {
+        padding: 1rem;
+    }
+
+[b-1lt11chfhb] .add-icon {
+    mask-image: url("images/icons/add.svg");
+}
+
+[b-1lt11chfhb] .export-icon {
+    mask-image: url("images/icons/arrow-export-up.svg");
+}
+
+.chart-tooltip[b-1lt11chfhb] {
+    padding: 0.5rem;
+}
+/* /../BlazorDemo.CRM.Client/Components/Analytics/Shared/Dashboard/Ticker.razor.rz.scp.css */
+.ticker[b-3te09u3g1e] {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    height: auto;
+    position: relative;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+    .ticker .icon-wrapper[b-3te09u3g1e] {
+        border-radius: 50%;
+        display: flex;
+        flex: 0 0 3rem;
+        height: 3rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ticker .tone-bg[b-3te09u3g1e] {
+        background-color: color-mix(in sRGB, currentColor 12%, transparent);
+    }
+
+    .ticker .negative[b-3te09u3g1e] {
+        color: var(--dxds-color-content-danger);
+    }
+
+    .ticker .positive[b-3te09u3g1e] {
+        color: var(--dxds-color-content-success);
+    }
+
+    .ticker .middle[b-3te09u3g1e] {
+        flex: 1 1;
+    }
+
+    .ticker .title[b-3te09u3g1e] {
+        font-size: 0.9rem;
+        line-height: 1.2rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .ticker .total[b-3te09u3g1e] {
+        display: inline-block;
+        font-size: 1.2rem;
+        line-height: 1.2rem;
+        font-weight: 600;
+    }
+
+    .ticker .percentage[b-3te09u3g1e] {
+        align-items: center;
+        align-self: flex-start;
+        border-radius: 999px;
+        display: flex;
+        font-size: 0.8rem;
+        font-weight: 600;
+        line-height: 1.2rem;
+        padding-block: 0.25rem;
+        padding-inline: 0.125rem 0.5rem;
+    }
+
+        .ticker .percentage .icon[b-3te09u3g1e] {
+            margin: 0.4rem;
+        }
+
+.chevron-up-icon[b-3te09u3g1e] {
+    mask-image: url("images/icons/chevron-up.svg");
+}
+
+.chevron-down-icon[b-3te09u3g1e] {
+    mask-image: url("images/icons/chevron-down.svg");
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Pages/ContactDetails.razor.rz.scp.css */
+.content-root[b-ra3nxgjdc2] {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+    .content-root .contact-details[b-ra3nxgjdc2] {
+        flex-grow: 1;
+    }
+
+.toolbar[b-ra3nxgjdc2] {
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 1rem;
+}
+
+    .toolbar .title[b-ra3nxgjdc2] {
+        font-size: var(--dxbl-toolbar-title-font-size);
+        line-height: var(--dxbl-toolbar-title-line-height);
+        font-weight: var(--dxbl-toolbar-title-font-weight);
+        margin: auto 0;
+    }
+
+    .toolbar .custom-item[b-ra3nxgjdc2] {
+        display: flex;
+        height: 100%;
+        margin: 0 0.5rem;
+    }
+
+[b-ra3nxgjdc2] .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+[b-ra3nxgjdc2] .card:not(.toolbar) {
+    padding: 1.5rem;
+}
+
+[b-ra3nxgjdc2] .tabs {
+    padding-top: 0.5rem !important;
+    height: 100%;
+}
+
+[b-ra3nxgjdc2] .tab-page {
+    margin-bottom: 0.625rem;
+}
+
+[b-ra3nxgjdc2] .h-100 {
+    height: 100%;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Pages/ContactList.razor.rz.scp.css */
+.content-root[b-wc5kr5e1rj] {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar[b-wc5kr5e1rj] {
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 1rem;
+}
+
+    .toolbar .custom-item[b-wc5kr5e1rj] {
+        display: flex;
+        align-items: center;
+        margin: 0 0.5rem;
+    }
+
+.contact-list-root[b-wc5kr5e1rj] {
+    flex-grow: 1;
+    height: 90%;
+}
+
+.card[b-wc5kr5e1rj] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+[b-wc5kr5e1rj] .w-100 {
+    width: 100%;
+}
+
+.h-100[b-wc5kr5e1rj] {
+    height: 100%;
+}
+
+[b-wc5kr5e1rj] .contact-list {
+    max-height: 100%;
+    border-radius: 0.25rem;
+}
+
+[b-wc5kr5e1rj] .add-icon {
+    mask-image: url("images/icons/add.svg");
+}
+
+[b-wc5kr5e1rj] .column-chooser-icon {
+    mask-image: url("images/icons/column-chooser.svg");
+}
+
+[b-wc5kr5e1rj] .export-icon {
+    mask-image: url("images/icons/arrow-export-up.svg");
+}
+
+[b-wc5kr5e1rj] .search-textbox-item {
+    max-width: 12.5rem;
+}
+
+[b-wc5kr5e1rj] .pinned-icon {
+    mask-image: url("images/icons/lock-closed.svg");
+}
+
+[b-wc5kr5e1rj] .unpinned-icon {
+    mask-image: url("images/icons/lock-open.svg");
+}
+
+[b-wc5kr5e1rj] .close-icon {
+    mask-image: url("images/icons/dismiss.svg");
+}
+
+[b-wc5kr5e1rj] .standalone-btn {
+    --dxbl-btn-padding-x: 0.5em;
+}
+
+[b-wc5kr5e1rj] .contact-list-loading-panel {
+    height: 100%;
+}
+
+[b-wc5kr5e1rj] .contact-list-drawer {
+    --dxbl-drawer-panel-body-padding-x: 1.5rem;
+    --dxbl-drawer-panel-header-padding-x: 1.5rem;
+    --dxbl-drawer-separator-border-style: none;
+}
+
+.contact-details-header[b-wc5kr5e1rj] {
+    display: flex;
+    flex-shrink: 0;
+    justify-content: space-between;
+}
+
+.contact-details-body[b-wc5kr5e1rj] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.small-size .contact-details[b-wc5kr5e1rj] {
+    width: 17.25rem;
+}
+
+.medium-size .contact-details[b-wc5kr5e1rj] {
+    width: 20.625rem;
+}
+
+.large-size .contact-details[b-wc5kr5e1rj] {
+    width: 24rem;
+}
+
+.sub-item[b-wc5kr5e1rj] {
+    font-size: 0.8em;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactDetails/Activities.razor.rz.scp.css */
+[b-2v8t5vyp56] .activities {
+    --dxbl-list-box-border-width: 0;
+    width: 100%;
+    height: 100%;
+}
+
+[b-2v8t5vyp56] .activity {
+    font-family: var(--dxds-font-family-sans-serif);
+    font-weight: 400;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    border-inline-start: 0.25rem solid var(--dxds-primary-100);
+    box-shadow: 0 0.125rem 0.25rem 0 #00000024, 0 0 0.125rem 0 #0000001F;
+}
+
+[b-2v8t5vyp56] .name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+[b-2v8t5vyp56] .info {
+    opacity: 0.8;
+}
+
+[b-2v8t5vyp56] .grid-item {
+    display: flex;
+    align-items: center;
+}
+
+.w-100[b-2v8t5vyp56] {
+    width: 100%;
+}
+
+.h-100[b-2v8t5vyp56] {
+    height: 100%;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactDetails/ContactForm.razor.rz.scp.css */
+.small-size .contact-form[b-cbzt87k0m2] {
+    --contacts-caption-font-size: var(--dxds-font-size-base-md);
+    --contacts-caption-font-weight: var(--dxds-font-weight-base-strong);
+    --contacts-caption-line-height: var(--dxds-line-height-base-md);
+}
+
+.medium-size .contact-form[b-cbzt87k0m2] {
+    --contacts-caption-font-size: var(--dxds-font-size-base-lg);
+    --contacts-caption-font-weight: var(--dxds-font-weight-base-strong);
+    --contacts-caption-line-height: var(--dxds-line-height-base-lg);
+}
+
+.large-size .contact-form[b-cbzt87k0m2] {
+    --contacts-caption-font-size: var(--dxds-font-size-title-md);
+    --contacts-caption-font-weight: var(--dxds-font-weight-title-default);
+    --contacts-caption-line-height: var(--dxds-line-height-title-md);
+}
+
+[b-cbzt87k0m2] .toolbar {
+    margin-bottom: 1rem;
+}
+
+[b-cbzt87k0m2] .contact-item {
+    height: 2em;
+    display: flex;
+    align-items: center;
+}
+
+[b-cbzt87k0m2] .user-avatar-item {
+    margin: auto;
+}
+
+.user-avatar[b-cbzt87k0m2] {
+    display: flex;
+    border: 1px solid var(--dxds-color-border);
+    border-radius: 50%;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+.small-size .user-avatar[b-cbzt87k0m2] {
+    max-width: 8.75rem;
+    max-height: 8.75rem;
+}
+
+.medium-size .user-avatar[b-cbzt87k0m2] {
+    max-width: 10rem;
+    max-height: 10rem;
+}
+
+.large-size .user-avatar[b-cbzt87k0m2] {
+    max-width: 11.25rem;
+    max-height: 11.25rem;
+}
+
+.user-avatar img[b-cbzt87k0m2] {
+    max-width: 100%;
+}
+
+[b-cbzt87k0m2] .caption {
+    font-weight: 600;
+}
+
+[b-cbzt87k0m2] .contacts-caption {
+    font-size: var(--contacts-caption-font-size);
+    line-height: var(--contacts-caption-line-height);
+    font-weight: var(--contacts-caption-font-weight);
+    margin-bottom: 1rem;
+}
+
+[b-cbzt87k0m2] .edit-icon {
+    mask-image: url("images/icons/edit.svg");
+}
+
+[b-cbzt87k0m2] .w-100 {
+    width: 100%;
+}
+
+.separator[b-cbzt87k0m2] {
+    margin: 0;
+    color: inherit;
+    border: 0;
+    border-top: var(--dxds-spacing-10) solid;
+    opacity: var(--dxds-opacity-25);
+}
+
+[b-cbzt87k0m2] .text-danger {
+    color: var(--dxds-color-bg-danger);
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactDetails/EmployeeStatus.razor.rz.scp.css */
+.status[b-eix4c75us0] {
+    font-size: 0.9em;
+}
+
+    .status[b-eix4c75us0]::before {
+        content: " ";
+        display: inline-block;
+        width: 0.6em;
+        height: 0.6em;
+        margin-inline-end: 0.3rem;
+        border-radius: 50%;
+        background-color: currentColor;
+    }
+
+.status.status-salaried[b-eix4c75us0] {
+    color: var(--dxds-color-content-success);
+}
+
+.status.status-commission[b-eix4c75us0] {
+    color: var(--dxds-color-content-info);
+}
+
+.status.status-terminated[b-eix4c75us0] {
+    color: var(--dxds-color-content-danger);
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactDetails/Notes.razor.rz.scp.css */
+[b-vqlek7t4se] .notes {
+    --dxbl-list-box-border-width: 0;
+    width: 100%;
+    height: fit-content;
+}
+
+.note[b-vqlek7t4se] {
+    font-family: var(--dxds-font-family-sans-serif);
+    font-weight: 400;
+    box-shadow: 0 0.125rem 0.25rem 0 #00000024, 0 0 0.125rem 0 #0000001F;
+    border-radius: 4px;
+    margin-bottom: 0.625rem;
+    padding: 0.5rem 0.625rem 0.5rem 0.625rem;
+}
+
+.note .note-header[b-vqlek7t4se] {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.note .note-header .note-title[b-vqlek7t4se] {
+    font-size: 0.85em;
+    line-height: 1.15em;
+    opacity: 0.8;
+}
+
+.note .note-text[b-vqlek7t4se] {
+    line-height: 1.5em;
+}
+
+.input-note[b-vqlek7t4se] {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem 1rem 0 1rem;
+}
+
+.add-button[b-vqlek7t4se] {
+    align-self: flex-end;
+}
+
+.w-100[b-vqlek7t4se] {
+    width: 100%;
+}
+
+.h-100[b-vqlek7t4se] {
+    height: 100%;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactDetails/Opportunities.razor.rz.scp.css */
+.small-size .group-header[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-md);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-md);
+}
+
+.medium-size .group-header[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-lg);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-lg);
+}
+
+.large-size .group-header[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-title-md);
+    font-weight: var(--dxds-font-weight-title-default);
+    line-height: var(--dxds-line-height-title-md);
+}
+
+.opportunity[b-uxm8k8gyhc] {
+    font-family: var(--dxds-font-family-sans-serif);
+    border-radius: 0.25rem;
+    padding: 1rem;
+}
+
+    .opportunity.active[b-uxm8k8gyhc] {
+        box-shadow: 0 0.125rem 0.25rem 0 #00000024, 0 0 0.125rem 0 #0000001F;
+    }
+
+    .opportunity.closed[b-uxm8k8gyhc] {
+        background-color: var(--dxds-color-bg-canvas);
+    }
+
+    .opportunity .opportunity-body[b-uxm8k8gyhc] {
+        cursor: pointer;
+    }
+
+        .opportunity .opportunity-body .name[b-uxm8k8gyhc] {
+            align-self: start;
+        }
+
+    .opportunity .product-info[b-uxm8k8gyhc] {
+        align-self: start;
+        margin-bottom: 1rem;
+    }
+
+    .opportunity .owner[b-uxm8k8gyhc] {
+        align-self: end;
+    }
+
+.small-size .opportunity .opportunity-body[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-sm);
+    font-weight: var(--dxds-font-weight-base-default);
+    line-height: var(--dxds-line-height-base-sm);
+}
+
+.medium-size .opportunity .opportunity-body[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-md);
+    font-weight: var(--dxds-font-weight-base-default);
+    line-height: var(--dxds-line-height-base-md);
+}
+
+.large-size .opportunity .opportunity-body[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-lg);
+    font-weight: var(--dxds-font-weight-base-default);
+    line-height: var(--dxds-line-height-base-lg);
+}
+
+.small-size .opportunity .opportunity-body .name[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-sm);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-sm);
+    margin-bottom: 0.125rem;
+}
+
+.medium-size .opportunity .opportunity-body .name[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-md);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-md);
+    margin-bottom: 0.25rem;
+}
+
+.large-size .opportunity .opportunity-body .name[b-uxm8k8gyhc] {
+    font-size: var(--dxds-font-size-base-lg);
+    font-weight: var(--dxds-font-weight-base-strong);
+    line-height: var(--dxds-line-height-base-lg);
+    margin-bottom: 0.375rem;
+}
+
+[b-uxm8k8gyhc] .h-100 {
+    height: 100%;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactDetails/Tasks.razor.rz.scp.css */
+[b-zlwa6m1236] .tasks {
+    border-radius: 0.25rem;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactList/ContactData.razor.rz.scp.css */
+.small-size .contact-data[b-pujt5kq8c9] {
+    --accordion-item-margin-top: 0.5rem;
+}
+
+.medium-size .contact-data[b-pujt5kq8c9] {
+    --accordion-item-margin-top: 0.75rem;
+}
+
+.large-size .contact-data[b-pujt5kq8c9] {
+    --accordion-item-margin-top: 1rem;
+}
+
+[b-pujt5kq8c9] .opportunity {
+    box-shadow: 0 0.125rem 0.25rem 0 #00000024, 0 0 0.125rem 0 #0000001F;
+    border-radius: 0.25rem;
+    padding: 0.5em 1em;
+}
+
+    .opportunity .title[b-pujt5kq8c9] {
+        font-weight: 600;
+    }
+
+[b-pujt5kq8c9] .list-box {
+    --dxbl-list-box-border-width: 0;
+    --dxbl-list-box-item-padding-x: 0;
+    flex-shrink: 0;
+    height: unset;
+}
+
+[b-pujt5kq8c9] .accordion-item {
+    margin-top: var(--accordion-item-margin-top);
+}
+
+[b-pujt5kq8c9] .activity {
+    font-family: var(--dxds-font-family-sans-serif);
+    font-weight: 400;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    border-inline-start: 0.25rem solid var(--dxds-primary-100);
+    box-shadow: 0 0.125rem 0.25rem 0 #00000024, 0 0 0.125rem 0 #0000001F;
+}
+
+[b-pujt5kq8c9] .name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+[b-pujt5kq8c9] .info {
+    opacity: 0.7;
+}
+
+[b-pujt5kq8c9] .grid-item {
+    display: flex;
+    align-items: center;
+}
+/* /../BlazorDemo.CRM.Client/Components/Contacts/Shared/ContactList/ContactForm.razor.rz.scp.css */
+.user-avatar[b-ia953363fq] {
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    border: 0.0625rem solid var(--dxds-color-border);
+    border-radius: 50%;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+.small-size .user-avatar[b-ia953363fq] {
+    width: 8.75rem;
+    height: 8.75rem;
+}
+
+.medium-size .user-avatar[b-ia953363fq] {
+    width: 10rem;
+    height: 10rem;
+}
+
+.large-size .user-avatar[b-ia953363fq] {
+    width: 11.25rem;
+    height: 11.25rem;
+}
+
+.user-avatar img[b-ia953363fq] {
+    max-width: 100%;
+}
+
+[b-ia953363fq] .label-icon {
+    margin-inline-end: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    display: block;
+    mask-repeat: no-repeat;
+    mask-position: center center;
+    background-color: currentColor;
+}
+
+[b-ia953363fq] .edit-icon {
+    mask-image: url("images/icons/edit.svg");
+}
+
+[b-ia953363fq] .contact-item {
+    height: 2em;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+[b-ia953363fq] .caption {
+    font-weight: 600;
+}
+
+a[b-ia953363fq] {
+    color: var(--dxds-color-content-primary);
+    text-decoration: underline;
+}
+
+[b-ia953363fq] .w-100 {
+    width: 100%;
+}
+
+.separator[b-ia953363fq] {
+    margin: 0;
+    color: inherit;
+    border: 0;
+    border-top: var(--dxds-spacing-10) solid;
+    opacity: var(--dxds-opacity-25);
+}
+
+[b-ia953363fq] .text-danger {
+    color: var(--dxds-color-bg-danger);
+}
+/* /../BlazorDemo.CRM.Client/Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-63zja0ykr2] {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header[b-63zja0ykr2] {
+    padding: var(--CRM-header-padding);
+    box-shadow: 0 0.125rem 0.25rem 0 #00000024, 0 0 0.125rem 0 #0000001F;
+    z-index: 103;
+    background-color: var(--dxds-color-bg);
+}
+
+.header .header-content[b-63zja0ykr2] {
+    display: flex;
+}
+
+.main[b-63zja0ykr2] {
+    flex-grow: 1;
+    overflow: auto;
+}
+
+.main .main-content[b-63zja0ykr2] {
+    height: 100%;
+}
+
+.toolbar .title[b-63zja0ykr2] {
+    color: var(--dxds-color-content);
+    font-family: var(--dxds-font-family-sans-serif);
+    font-weight: 400;
+    text-align: start;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin: 0 0.5rem;
+    height: 100%;
+}
+
+.avatar-item[b-63zja0ykr2] {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.avatar-item .avatar-label[b-63zja0ykr2] {
+    padding: 0.5rem;
+}
+
+.small-size .toolbar .title[b-63zja0ykr2] {
+    font-size: var(--dxds-font-size-base-lg);
+    line-height: var(--dxds-line-height-base-lg);
+}
+
+.medium-size .toolbar .title[b-63zja0ykr2] {
+    font-size: var(--dxds-font-size-title-md);
+    line-height: var(--dxds-line-height-title-md);
+}
+
+.large-size .toolbar .title[b-63zja0ykr2] {
+    font-size: var(--dxds-font-size-title-lg);
+    line-height: var(--dxds-line-height-title-lg);
+}
+
+.content[b-63zja0ykr2] {
+    margin: 0 auto;
+}
+
+.main-content .module-content[b-63zja0ykr2] {
+    padding: var(--CRM-module-content-padding);
+}
+
+.module-content[b-63zja0ykr2] {
+    height: 100%;
+    overflow: auto;
+}
+
+[b-63zja0ykr2] .main-menu {
+    width: 15rem;
+}
+
+[b-63zja0ykr2] .main-menu-small {
+    width: 13rem;
+}
+
+[b-63zja0ykr2] .main-menu [role="treeitem"][aria-level="1"] {
+    font-weight: 500;
+}
+
+[b-63zja0ykr2] .main-menu-drawer {
+    --dxbl-drawer-panel-body-padding-x: 1.5rem;
+    --dxbl-drawer-panel-body-padding-y: 1.5rem;
+}
+
+[b-63zja0ykr2] .search-textbox {
+    margin: auto 0;
+}
+
+[b-63zja0ykr2] .toolbar .search-textbox-item {
+    max-width: 12.5rem;
+}
+
+[b-63zja0ykr2] .crm-icon {
+    mask-image: url("images/icons/person.svg");
+}
+
+[b-63zja0ykr2] .planning-icon {
+    mask-image: url("images/icons/calendar.svg");
+}
+
+[b-63zja0ykr2] .analytics-icon {
+    mask-image: url("images/icons/data-histogram.svg");
+}
+
+[b-63zja0ykr2] .hamburger-icon {
+    mask-image: url("images/icons/navigation.svg");
+}
+
+
+/* /../BlazorDemo.CRM.Client/Components/Layout/Shared/AccountManager.razor.rz.scp.css */
+.user-info[b-vb2xovoslq] {
+    width: max-content;
+}
+
+.display-name[b-vb2xovoslq] {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.email[b-vb2xovoslq] {
+    color: var(--dxds-color-content-subtle);
+}
+
+.container[b-vb2xovoslq] {
+    width: 100%;
+    height: 100%;
+}
+
+[b-vb2xovoslq].small-size .user-avatar {
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+[b-vb2xovoslq].medium-size .user-avatar {
+    width: 4rem;
+    height: 4rem;
+}
+
+[b-vb2xovoslq].large-size .user-avatar {
+    width: 4.5rem;
+    height: 4.5rem;
+}
+
+.separator[b-vb2xovoslq] {
+    margin: 0;
+    color: inherit;
+    border: 0;
+    border-top: var(--dxds-spacing-10) solid;
+    opacity: var(--dxds-opacity-25);
+}
+
+[b-vb2xovoslq] .button {
+    padding-inline: 0;
+}
+
+/* /../BlazorDemo.CRM.Client/Components/Layout/Shared/UserAvatar.razor.rz.scp.css */
+.avatar-container[b-8t4oly3u9h] {
+    display: flex;
+    border: 0.0625rem solid var(--dxds-color-border);
+    border-radius: 50%;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+
+    .avatar-container:hover[b-8t4oly3u9h] {
+        cursor: pointer;
+        border-color: var(--dxds-color-bg-primary);
+    }
+
+    .avatar-container img[b-8t4oly3u9h] {
+        max-width: 100%;
+    }
+
+.no-hover[b-8t4oly3u9h] {
+    pointer-events: none;
+}
+/* /../BlazorDemo.CRM.Client/Components/Planning/Pages/Scheduler.razor.rz.scp.css */
+[b-51q5nmqoz8] .normal-view {
+    height: inherit;
+}
+
+[b-51q5nmqoz8] .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+.compact-view[b-51q5nmqoz8] {
+    display: flex;
+    height: 100%;
+    justify-items: start;
+}
+
+[b-51q5nmqoz8] .menu-button {
+    height: fit-content;
+    position: relative;
+    top: 1em;
+    inset-inline-start: 0.25em;
+}
+
+[b-51q5nmqoz8] .settings {
+    padding: 1em;
+}
+
+.h-100[b-51q5nmqoz8] {
+    height: 100%;
+}
+
+[b-51q5nmqoz8] .scheduler-loading-panel {
+    height: 100%;
+}
+
+[b-51q5nmqoz8] .scheduler-drawer .dxbl-drawer-body {
+    padding: 0;
+}
+
+[b-51q5nmqoz8] .scheduler-drawer > .dxbl-drawer-panel {
+    margin-inline-start: unset;
+    transition-property: visibility, width, margin-inline-start;
+    border: 0.063rem solid var(--dxds-color-border);
+    border-top: none;
+    border-end-end-radius: 0.25rem;
+    margin-top: calc(var(--CRM-scheduler-panel-margin-top) + 0.1rem);
+    box-shadow: none !important;
+}
+/* /../BlazorDemo.CRM.Client/Components/Planning/Pages/TaskList.razor.rz.scp.css */
+.content-root[b-fn82yah53d] {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar[b-fn82yah53d] {
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.toolbar .custom-item[b-fn82yah53d] {
+    display: flex;
+    align-items: center;
+    margin: 0 0.5rem;
+}
+
+.task-list-root[b-fn82yah53d] {
+    flex-grow: 1;
+    height: 90%;
+}
+
+.card[b-fn82yah53d] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    overflow-wrap: break-word;
+    background-color: var(--dxds-color-bg);
+    background-clip: border-box;
+    border: var(--dxds-border-radius-10) solid var(--dxds-color-border);
+    border-radius: 0.25rem;
+}
+
+[b-fn82yah53d] .h-100 {
+    height: 100%;
+}
+
+[b-fn82yah53d] .task-list {
+    max-height: 100%;
+    border-radius: 0.25rem;
+}
+
+[b-fn82yah53d] .add-icon {
+    mask-image: url("images/icons/add.svg");
+}
+
+[b-fn82yah53d] .column-chooser-icon {
+    mask-image: url("images/icons/column-chooser.svg");
+}
+
+[b-fn82yah53d] .export-icon {
+    mask-image: url("images/icons/arrow-export-up.svg");
+}
+
+[b-fn82yah53d] .search-textbox-item {
+    max-width: 12.5rem;
+}
+
+[b-fn82yah53d] .refresh-icon {
+    mask-image: url("images/icons/arrow-sync.svg");
+}
+/* /../BlazorDemo.CRM.Client/Components/Planning/Shared/SchedulerAIChat.razor.rz.scp.css */
+.chat-container[b-6jfzzwfwn1], [b-6jfzzwfwn1] .chat {
+    width: 100%;
+    height: 100%;
+}
+
+[b-6jfzzwfwn1] .chat .chat-content > p:last-child {
+    margin-bottom: 0;
+}
+
+[b-6jfzzwfwn1] .chat .chat-content > p {
+    margin-top: 0;
+}
+
+[b-6jfzzwfwn1] .chat .dxbl-chatui-messages {
+    padding: var(--CRM-messagelist-padding-y) var(--CRM-messagelist-padding-x);
+}
+
+[b-6jfzzwfwn1] .chat .dxbl-chatui-submitarea {
+    padding: var(--CRM-submitarea-padding-y) var(--CRM-submitarea-padding-x) var(--CRM-submitarea-padding-x);
+}
+
+[b-6jfzzwfwn1] .chat .dxbl-chatui-header {
+    padding: var(--CRM-chatui-header-padding) var(--CRM-chatui-header-padding) var(--CRM-chatui-header-padding-bottom);
+}
+/* /../BlazorDemo.CRM.Client/Components/Planning/Shared/Settings.razor.rz.scp.css */
+.settings-root[b-b9opx4lc3a] {
+    width: 100%;
+    height: 100%;
+}
+
+[b-b9opx4lc3a] .tabs-root {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+[b-b9opx4lc3a] .dxbl-tabs-content-panel {
+    flex: 1 1 auto;
+    overflow: auto;
+}
+
+[b-b9opx4lc3a] .calendar-root {
+    margin-top: 1.5rem;
+}
+
+[b-b9opx4lc3a] .w-100 {
+    width: 100%;
+}
+/* /../BlazorDemo.CRM.Client/Components/Planning/Shared/WorkTaskScheduler.razor.rz.scp.css */
+[b-othz740aa4] .scheduler {
+    --dxbl-scheduler-border-radius: 0.25rem;
+    width: 100%;
+    max-height: 100%;
+}
+
+[b-othz740aa4] .resource-0-bg {
+    background-color: var(--dxds-color-bg-cyan-subtle);
+    border-color: var(--dxds-color-bg-cyan-subtle);
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-1-bg {
+    background-color: var(--dxds-color-bg-green-subtle);
+    border-color: var(--dxds-color-bg-green-subtle);
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-2-bg {
+    background-color: var(--dxds-color-bg-red-subtle);
+    border-color: var(--dxds-color-bg-red-subtle);
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-3-bg {
+    background-color: var(--dxds-color-bg-yellow-subtle);
+    border-color: var(--dxds-color-bg-yellow-subtle);
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-4-bg {
+    background-color: var(--dxds-color-bg-purple-subtle);
+    border-color: var(--dxds-color-bg-purple-subtle);
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-0-text {
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-1-text {
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-2-text {
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-3-text {
+    color: var(--dxds-color-content);
+}
+
+[b-othz740aa4] .resource-4-text {
+    color: var(--dxds-color-content);
+}
+
+.h-100[b-othz740aa4] {
+    height: 100%;
+}
+/* /../BlazorDemo.CRM.Client/Components/Shared/Status.razor.rz.scp.css */
+.status[b-c453r6zaf0] {
+    font-size: 0.9em;
+    margin-inline-start: 1em;
+}
+
+.status[b-c453r6zaf0]::before {
+    content: " ";
+    display: inline-block;
+    width: 0.6em;
+    height: 0.6em;
+    margin-inline-end: 0.3rem;
+    border-radius: 50%;
+    background-color: currentColor;
+}
+
+.status-salaried[b-c453r6zaf0] {
+    color: var(--dxds-color-content-success);
+}
+
+.status-commission[b-c453r6zaf0] {
+    color: var(--dxds-color-content-info);
+}
+
+.status-terminated[b-c453r6zaf0] {
+    color: var(--dxds-color-content-danger);
+}
+
+.status-completed[b-c453r6zaf0] {
+    color: var(--dxds-color-content-green);
+}
+
+.status-open[b-c453r6zaf0] {
+    color: var(--dxds-color-content-blue);
+}
+
+.status-inprogress[b-c453r6zaf0] {
+    color: var(--dxds-color-content-purple);
+}
+
+.status-deferred[b-c453r6zaf0] {
+    color: var(--dxds-color-content-gray);
+}
+
+.priority-high[b-c453r6zaf0] {
+    color: var(--dxds-color-content-red);
+}
+
+.priority-normal[b-c453r6zaf0] {
+    color: var(--dxds-color-content-orange);
+}
+
+.priority-low[b-c453r6zaf0] {
+    color: var(--dxds-color-content-cyan);
+}
+
+
+.status.status-focused[b-c453r6zaf0] {
+    color: inherit !important;
+}

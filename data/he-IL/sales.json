@@ -1,0 +1,1530 @@
+[
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 10175
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 26075
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 7400
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 3700
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 9250
+  },
+  {
+    "date": "2019-11-14T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 9800
+  },
+  {
+    "date": "2019-11-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 48850
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 3875
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 55500
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 3875
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 4450
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 42550
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9425
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9250
+  },
+  {
+    "date": "2019-12-01T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 3700
+  },
+  {
+    "date": "2019-12-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 13775
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 16650
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 18500
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 7400
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 45150
+  },
+  {
+    "date": "2019-12-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 83800
+  },
+  {
+    "date": "2019-12-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 28850
+  },
+  {
+    "date": "2019-12-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 51250
+  },
+  {
+    "date": "2019-12-15T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 17575
+  },
+  {
+    "date": "2019-12-19T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 7575
+  },
+  {
+    "date": "2019-12-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 7400
+  },
+  {
+    "date": "2019-12-28T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 5550
+  },
+  {
+    "date": "2019-12-28T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 70300
+  },
+  {
+    "date": "2020-01-02T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 26075
+  },
+  {
+    "date": "2020-01-02T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 7400
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 3700
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 10175
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9800
+  },
+  {
+    "date": "2020-01-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 19600
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 38475
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 37000
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3875
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 18500
+  },
+  {
+    "date": "2020-01-20T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3875
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 4450
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 42550
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 3700
+  },
+  {
+    "date": "2020-01-25T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 9425
+  },
+  {
+    "date": "2020-01-25T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 9250
+  },
+  {
+    "date": "2020-01-27T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 13775
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 16650
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 18500
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 7400
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 45150
+  },
+  {
+    "date": "2020-02-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 50500
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 22200
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 33300
+  },
+  {
+    "date": "2020-02-28T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 6650
+  },
+  {
+    "date": "2020-02-28T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 17575
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 7400
+  },
+  {
+    "date": "2020-03-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 51250
+  },
+  {
+    "date": "2020-03-14T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 7575
+  },
+  {
+    "date": "2020-03-14T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 33300
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 5550
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 37000
+  },
+  {
+    "date": "2020-04-12T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 7400
+  },
+  {
+    "date": "2020-04-14T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 18500
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 3700
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 10175
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 7575
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 9800
+  },
+  {
+    "date": "2020-05-22T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 26650
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 31450
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 55500
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 3875
+  },
+  {
+    "date": "2020-06-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 3875
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 4450
+  },
+  {
+    "date": "2020-06-03T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 42550
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 5725
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 3700
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3700
+  },
+  {
+    "date": "2020-07-07T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 9250
+  },
+  {
+    "date": "2020-07-17T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 10075
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 3700
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 16650
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 18500
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 7400
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 45150
+  },
+  {
+    "date": "2020-08-29T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 50500
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 28850
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 33300
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 31825
+  },
+  {
+    "date": "2020-09-02T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 17575
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 5000
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 7400
+  },
+  {
+    "date": "2020-09-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 19425
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 2600
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 33300
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 5550
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 37000
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 7400
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 10175
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 26075
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 3700
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 26650
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 9800
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 31450
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 37000
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 3875
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 18500
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 3875
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 4450
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 22200
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 5725
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 20350
+  },
+  {
+    "date": "2020-12-10T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 3700
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 3700
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 4250
+  },
+  {
+    "date": "2020-12-11T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 9250
+  },
+  {
+    "date": "2020-12-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9525
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 16650
+  },
+  {
+    "date": "2020-12-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 18500
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 7400
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 45150
+  },
+  {
+    "date": "2021-01-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 50500
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 12200
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 33300
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 16650
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 7400
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 51250
+  },
+  {
+    "date": "2021-02-11T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 10175
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 7575
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 7400
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 5550
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 70300
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 26075
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 7400
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 10175
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9800
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 3700
+  },
+  {
+    "date": "2021-04-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 26650
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 31450
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 55500
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3875
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3875
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 5725
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 4450
+  },
+  {
+    "date": "2021-05-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 22200
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 3700
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 9250
+  },
+  {
+    "date": "2021-05-18T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 23675
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 7400
+  },
+  {
+    "date": "2021-05-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 39950
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 18875
+  },
+  {
+    "date": "2021-06-19T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 33300
+  },
+  {
+    "date": "2021-06-22T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 17575
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 26075
+  },
+  {
+    "date": "2021-06-30T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 7400
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 3700
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 10175
+  },
+  {
+    "date": "2021-07-03T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9800
+  },
+  {
+    "date": "2021-07-09T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 26650
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 31450
+  },
+  {
+    "date": "2021-07-24T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 55500
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3875
+  },
+  {
+    "date": "2021-08-03T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז חיפה",
+    "stateCoords": "34.9896, 32.7940",
+    "city": "חיפה",
+    "total": 3875
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 5725
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 4450
+  },
+  {
+    "date": "2021-08-04T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 22200
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 3700
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 9250
+  },
+  {
+    "date": "2021-08-08T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 23675
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 7400
+  },
+  {
+    "date": "2021-09-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 39950
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 18875
+  },
+  {
+    "date": "2021-09-10T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 33300
+  },
+  {
+    "date": "2021-09-18T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "בני ברק",
+    "total": 17575
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 26075
+  },
+  {
+    "date": "2021-10-15T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "אילת",
+    "total": 7400
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 3700
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 10175
+  },
+  {
+    "date": "2021-10-17T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז הדרום",
+    "stateCoords": "34.9000, 30.9000",
+    "city": "באר שבע",
+    "total": 9800
+  },
+  {
+    "date": "2021-10-19T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז הצפון",
+    "stateCoords": "35.3000, 32.8000",
+    "city": "נצרת",
+    "total": 58100
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 1850
+  },
+  {
+    "date": "2021-11-01T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז ירושלים",
+    "stateCoords": "35.2137, 31.7683",
+    "city": "בית שמש",
+    "total": 55500
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 3875
+  },
+  {
+    "date": "2021-11-19T00:00:00",
+    "category": "Monitors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 6475
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 9425
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 9250
+  },
+  {
+    "date": "2021-11-22T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז המרכז",
+    "stateCoords": "34.8516, 31.9500",
+    "city": "ראשון לציון",
+    "total": 22200
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "category": "Automation",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 7400
+  },
+  {
+    "date": "2021-12-03T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "תל אביב-יפו",
+    "total": 45150
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 12200
+  },
+  {
+    "date": "2021-12-05T00:00:00",
+    "category": "Televisions",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "רמת גן",
+    "total": 51800
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "category": "Projectors",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 6650
+  },
+  {
+    "date": "2021-12-14T00:00:00",
+    "category": "Video Players",
+    "stateName": "מחוז תל אביב",
+    "stateCoords": "34.7818, 32.0853",
+    "city": "חולון",
+    "total": 17575
+  }
+]

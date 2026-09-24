@@ -1,0 +1,492 @@
+[
+  {
+    "id": 3,
+    "name": "Arturo Molinero",
+    "position": "Director técnico",
+    "status": "Salaried",
+    "company": "Supermás del Norte",
+    "phone": "915 558 583",
+    "email": "arturom@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 4,
+    "name": "Roberto Regalado",
+    "position": "Director de marketing",
+    "status": "Salaried",
+    "company": "Almacén Electrónico",
+    "phone": "915 552 387",
+    "email": "robertor@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 5,
+    "name": "Gloria Simón",
+    "position": "Responsable de recursos humanos",
+    "status": "Salaried",
+    "company": "K&S Música",
+    "phone": "915 556 546",
+    "email": "glorias@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 6,
+    "name": "Bernardo Vado",
+    "position": "Responsable de informática",
+    "status": "Salaried",
+    "company": "Club de Tomás",
+    "phone": "915 550 358",
+    "email": "bernardov@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 7,
+    "name": "Alejandra Ibáñez",
+    "position": "Controlador financiero",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "915 552 082",
+    "email": "alejandrai@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 8,
+    "name": "Eduardo Olmos",
+    "position": "Responsable de ventas",
+    "status": "Salaried",
+    "company": "Valter",
+    "phone": "915 551 288",
+    "email": "eduardoo@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 9,
+    "name": "Bárbara Blanco",
+    "position": "Responsable de soporte",
+    "status": "Salaried",
+    "company": "EstéreoBazar",
+    "phone": "915 553 355",
+    "email": "barbarab@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 10,
+    "name": "Nicolás Carreño",
+    "position": "Responsable de expediciones",
+    "status": "Salaried",
+    "company": "Tecnociudad",
+    "phone": "915 552 840",
+    "email": "nicolasc@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 11,
+    "name": "Concepción Santana",
+    "position": "Auxiliar de recursos humanos",
+    "status": "Salaried",
+    "company": "Compra Premier",
+    "phone": "915 556 655",
+    "email": "concepcions@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 12,
+    "name": "Samuel Montes",
+    "position": "Auxiliar de ventas",
+    "status": "Salaried",
+    "company": "ElectrixMax",
+    "phone": "915 557 292",
+    "email": "samuelm@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 13,
+    "name": "David Jurado",
+    "position": "Auxiliar de expediciones",
+    "status": "Salaried",
+    "company": "Emporio del Vídeo",
+    "phone": "915 550 281",
+    "email": "davidj@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 14,
+    "name": "Víctor Novoa",
+    "position": "Auxiliar de expediciones",
+    "status": "Salaried",
+    "company": "Tienda Pantalla",
+    "phone": "915 559 278",
+    "email": "victorn@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 15,
+    "name": "María Solano",
+    "position": "Auxiliar de expediciones",
+    "status": "Salaried",
+    "company": "Reineta",
+    "phone": "915 557 857",
+    "email": "marias@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 16,
+    "name": "Rodrigo Costa",
+    "position": "Auxiliar de expediciones",
+    "status": "Salaried",
+    "company": "PrecioCo",
+    "phone": "915 550 942",
+    "email": "rodrigoc@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 17,
+    "name": "Clara Rodríguez",
+    "position": "Técnico de soporte",
+    "status": "Salaried",
+    "company": "Gadget Total",
+    "phone": "915 559 248",
+    "email": "clarar@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 18,
+    "name": "Jacobo Alonso",
+    "position": "Técnico de soporte",
+    "status": "Salaried",
+    "company": "Para-Ya",
+    "phone": "915 554 702",
+    "email": "jacoboa@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 19,
+    "name": "Antonio Remón",
+    "position": "Técnico de soporte",
+    "status": "Salaried",
+    "company": "Clicker",
+    "phone": "915 556 625",
+    "email": "antonior@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 20,
+    "name": "Olivia Peña",
+    "position": "Auxiliar de ventas",
+    "status": "Salaried",
+    "company": "Tienda de España",
+    "phone": "915 552 728",
+    "email": "oliviap@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 21,
+    "name": "Teresa Rivas",
+    "position": "Administrador de redes",
+    "status": "Salaried",
+    "company": "Zona Juguetes",
+    "phone": "915 557 276",
+    "email": "teresar@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 22,
+    "name": "Amelia Herrero",
+    "position": "Administrador de redes",
+    "status": "Salaried",
+    "company": "ACME",
+    "phone": "915 554 276",
+    "email": "ameliah@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 23,
+    "name": "Valentín Hoyos",
+    "position": "Programador",
+    "status": "Salaried",
+    "company": "Supermás del Norte",
+    "phone": "915 558 872",
+    "email": "valentinh@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 24,
+    "name": "Baltasar Jiménez",
+    "position": "Programador",
+    "status": "Salaried",
+    "company": "Almacén Electrónico",
+    "phone": "915 554 646",
+    "email": "baltasarj@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 25,
+    "name": "Carmen Gómez",
+    "position": "Programador",
+    "status": "Salaried",
+    "company": "K&S Música",
+    "phone": "915 550 908",
+    "email": "carmeng@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 26,
+    "name": "Marcos Ortega",
+    "position": "Coordinador de viajes",
+    "status": "Salaried",
+    "company": "Club de Tomás",
+    "phone": "915 557 098",
+    "email": "marcoso@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 27,
+    "name": "Alejandra Lucero",
+    "position": "Coordinador de beneficios sociales",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "915 550 524",
+    "email": "alejandral@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 28,
+    "name": "Mateo Cañete",
+    "position": "Diseñador gráfico",
+    "status": "Salaried",
+    "company": "Valter",
+    "phone": "915 558 238",
+    "email": "mateoc@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 29,
+    "name": "Violeta Bello",
+    "position": "Diseñador gráfico junior",
+    "status": "Salaried",
+    "company": "EstéreoBazar",
+    "phone": "915 552 478",
+    "email": "violetab@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 30,
+    "name": "Carlos Salgado",
+    "position": "Defensor del cliente",
+    "status": "Salaried",
+    "company": "Tecnociudad",
+    "phone": "915 559 282",
+    "email": "carloss@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 31,
+    "name": "Natalia Maqueda",
+    "position": "Formador",
+    "status": "Salaried",
+    "company": "Compra Premier",
+    "phone": "915 558 377",
+    "email": "nataliam@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 32,
+    "name": "Bruno Abad",
+    "position": "Director de ingeniería",
+    "status": "Salaried",
+    "company": "ElectrixMax",
+    "phone": "915 552 000",
+    "email": "brunoa@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 33,
+    "name": "Lía Sampedro",
+    "position": "Coordinador de pruebas",
+    "status": "Salaried",
+    "company": "Emporio del Vídeo",
+    "phone": "915 595 830",
+    "email": "lias@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 34,
+    "name": "Armando Prieto",
+    "position": "Ingeniero",
+    "status": "Salaried",
+    "company": "Tienda Pantalla",
+    "phone": "915 558 882",
+    "email": "armandop@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 35,
+    "name": "Guillermo Zamora",
+    "position": "Ingeniero",
+    "status": "Salaried",
+    "company": "Reineta",
+    "phone": "915 556 939",
+    "email": "guillermoz@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 36,
+    "name": "Sofía Pastor",
+    "position": "Ingeniero",
+    "status": "Salaried",
+    "company": "PrecioCo",
+    "phone": "915 554 512",
+    "email": "sofiap@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 37,
+    "name": "Margarita Bautista",
+    "position": "Ingeniero",
+    "status": "Salaried",
+    "company": "Gadget Total",
+    "phone": "915 557 239",
+    "email": "margaritab@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 38,
+    "name": "Tomás Bernal",
+    "position": "Ingeniero de calidad",
+    "status": "Salaried",
+    "company": "Para-Ya",
+    "phone": "915 552 788",
+    "email": "tomasb@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 39,
+    "name": "Gabriel Jurado",
+    "position": "Coordinador de tiendas",
+    "status": "Salaried",
+    "company": "Clicker",
+    "phone": "915 555 395",
+    "email": "gabrielj@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 40,
+    "name": "Lucía Bravo",
+    "position": "Auxiliar de ventas",
+    "status": "Salaried",
+    "company": "Tienda de España",
+    "phone": "915 553 357",
+    "email": "luciab@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 41,
+    "name": "Jacobo Pacheco",
+    "position": "Responsable de ventas en tienda",
+    "status": "Commission",
+    "company": "Zona Juguetes",
+    "phone": "915 558 224",
+    "email": "jacobop@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 42,
+    "name": "Ana Bringas",
+    "position": "Responsable de ventas online",
+    "status": "Commission",
+    "company": "ACME",
+    "phone": "915 553 627",
+    "email": "anab@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 43,
+    "name": "Humberto Mudarra",
+    "position": "Responsable de ventas en tienda",
+    "status": "Commission",
+    "company": "Supermás del Norte",
+    "phone": "915 553 895",
+    "email": "humbertom@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 44,
+    "name": "Claudio Moreno",
+    "position": "Responsable de ventas en tienda",
+    "status": "Commission",
+    "company": "Almacén Electrónico",
+    "phone": "915 552 525",
+    "email": "claudiom@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 45,
+    "name": "Teodoro Hofmann",
+    "position": "Responsable de ventas en tienda",
+    "status": "Commission",
+    "company": "K&S Música",
+    "phone": "915 553 579",
+    "email": "teodoroh@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 46,
+    "name": "Joaquín Gallardo",
+    "position": "Técnico de soporte",
+    "status": "Salaried",
+    "company": "Club de Tomás",
+    "phone": "915 551 824",
+    "email": "joaquing@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 47,
+    "name": "Leonardo Bermúdez",
+    "position": "Auxiliar de ventas",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "915 558 272",
+    "email": "leonardob@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 48,
+    "name": "Borja Fabra",
+    "position": "Ingeniero",
+    "status": "Terminated",
+    "company": "Valter",
+    "phone": "915 553 626",
+    "email": "borjaf@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 49,
+    "name": "Josefina Hoyos",
+    "position": "Auxiliar de expediciones",
+    "status": "Terminated",
+    "company": "EstéreoBazar",
+    "phone": "915 552 668",
+    "email": "josefinah@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  },
+  {
+    "id": 50,
+    "name": "Damián Lucas",
+    "position": "Auxiliar de expediciones",
+    "status": "Terminated",
+    "company": "Tecnociudad",
+    "phone": "915 558 357",
+    "email": "damianl@dx-email.com",
+    "assignedTo": "Juan Cordero"
+  },
+  {
+    "id": 51,
+    "name": "Sebastián Pizarro",
+    "position": "Ingeniero",
+    "status": "Terminated",
+    "company": "Compra Premier",
+    "phone": "915 552 552",
+    "email": "sebastianp@dx-email.com",
+    "assignedTo": "Sofía Lucero"
+  }
+]

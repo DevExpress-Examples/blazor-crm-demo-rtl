@@ -1,0 +1,3407 @@
+[
+  {
+    "date": "2018-05-18T00:00:00",
+    "category": "Quotes",
+    "value": 5625
+  },
+  {
+    "date": "2018-05-23T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2018-05-25T00:00:00",
+    "category": "Sales",
+    "value": 10950
+  },
+  {
+    "date": "2018-05-29T00:00:00",
+    "category": "Sales",
+    "value": 12375
+  },
+  {
+    "date": "2018-05-30T00:00:00",
+    "category": "Sales",
+    "value": 12375
+  },
+  {
+    "date": "2018-06-03T00:00:00",
+    "category": "Quotes",
+    "value": 13725
+  },
+  {
+    "date": "2018-06-03T00:00:00",
+    "category": "Sales",
+    "value": 31475
+  },
+  {
+    "date": "2018-06-04T00:00:00",
+    "category": "Opportunities",
+    "value": 5675
+  },
+  {
+    "date": "2018-06-05T00:00:00",
+    "category": "Leads",
+    "value": 3475
+  },
+  {
+    "date": "2018-06-05T00:00:00",
+    "category": "Opportunities",
+    "value": 13725
+  },
+  {
+    "date": "2018-06-09T00:00:00",
+    "category": "Sales",
+    "value": 7375
+  },
+  {
+    "date": "2018-06-12T00:00:00",
+    "category": "Sales",
+    "value": 14900
+  },
+  {
+    "date": "2018-06-13T00:00:00",
+    "category": "Sales",
+    "value": 21275
+  },
+  {
+    "date": "2018-06-14T00:00:00",
+    "category": "Sales",
+    "value": 7375
+  },
+  {
+    "date": "2018-06-15T00:00:00",
+    "category": "Quotes",
+    "value": 17200
+  },
+  {
+    "date": "2018-06-17T00:00:00",
+    "category": "Quotes",
+    "value": 3475
+  },
+  {
+    "date": "2018-06-18T00:00:00",
+    "category": "Sales",
+    "value": 13325
+  },
+  {
+    "date": "2018-06-19T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2018-06-21T00:00:00",
+    "category": "Leads",
+    "value": 8900
+  },
+  {
+    "date": "2018-06-23T00:00:00",
+    "category": "Opportunities",
+    "value": 8900
+  },
+  {
+    "date": "2018-06-23T00:00:00",
+    "category": "Sales",
+    "value": 21275
+  },
+  {
+    "date": "2018-06-24T00:00:00",
+    "category": "Sales",
+    "value": 28675
+  },
+  {
+    "date": "2018-06-25T00:00:00",
+    "category": "Leads",
+    "value": 8900
+  },
+  {
+    "date": "2018-06-25T00:00:00",
+    "category": "Sales",
+    "value": 3825
+  },
+  {
+    "date": "2018-06-26T00:00:00",
+    "category": "Sales",
+    "value": 17200
+  },
+  {
+    "date": "2018-06-27T00:00:00",
+    "category": "Sales",
+    "value": 3825
+  },
+  {
+    "date": "2018-07-01T00:00:00",
+    "category": "Sales",
+    "value": 3825
+  },
+  {
+    "date": "2018-07-06T00:00:00",
+    "category": "Sales",
+    "value": 8375
+  },
+  {
+    "date": "2018-07-09T00:00:00",
+    "category": "Leads",
+    "value": 18725
+  },
+  {
+    "date": "2018-07-09T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2018-07-11T00:00:00",
+    "category": "Leads",
+    "value": 4675
+  },
+  {
+    "date": "2018-07-11T00:00:00",
+    "category": "Sales",
+    "value": 8375
+  },
+  {
+    "date": "2018-07-15T00:00:00",
+    "category": "Opportunities",
+    "value": 8375
+  },
+  {
+    "date": "2018-07-15T00:00:00",
+    "category": "Quotes",
+    "value": 19000
+  },
+  {
+    "date": "2018-07-17T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2018-07-19T00:00:00",
+    "category": "Leads",
+    "value": 1000
+  },
+  {
+    "date": "2018-07-20T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2018-07-24T00:00:00",
+    "category": "Quotes",
+    "value": 5625
+  },
+  {
+    "date": "2018-07-26T00:00:00",
+    "category": "Quotes",
+    "value": 1000
+  },
+  {
+    "date": "2018-07-27T00:00:00",
+    "category": "Quotes",
+    "value": 1000
+  },
+  {
+    "date": "2018-07-27T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2018-07-28T00:00:00",
+    "category": "Leads",
+    "value": 1000
+  },
+  {
+    "date": "2018-07-28T00:00:00",
+    "category": "Opportunities",
+    "value": 1000
+  },
+  {
+    "date": "2018-07-29T00:00:00",
+    "category": "Quotes",
+    "value": 5625
+  },
+  {
+    "date": "2018-07-29T00:00:00",
+    "category": "Sales",
+    "value": 37450
+  },
+  {
+    "date": "2018-07-30T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2018-08-03T00:00:00",
+    "category": "Opportunities",
+    "value": 4725
+  },
+  {
+    "date": "2018-08-04T00:00:00",
+    "category": "Sales",
+    "value": 12700
+  },
+  {
+    "date": "2018-08-06T00:00:00",
+    "category": "Quotes",
+    "value": 12700
+  },
+  {
+    "date": "2018-08-07T00:00:00",
+    "category": "Sales",
+    "value": 3475
+  },
+  {
+    "date": "2018-08-09T00:00:00",
+    "category": "Sales",
+    "value": 4725
+  },
+  {
+    "date": "2018-08-13T00:00:00",
+    "category": "Quotes",
+    "value": 12725
+  },
+  {
+    "date": "2018-08-18T00:00:00",
+    "category": "Opportunities",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-20T00:00:00",
+    "category": "Opportunities",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-20T00:00:00",
+    "category": "Quotes",
+    "value": 13825
+  },
+  {
+    "date": "2018-08-21T00:00:00",
+    "category": "Leads",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-23T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2018-08-24T00:00:00",
+    "category": "Quotes",
+    "value": 18775
+  },
+  {
+    "date": "2018-08-25T00:00:00",
+    "category": "Sales",
+    "value": 13225
+  },
+  {
+    "date": "2018-08-28T00:00:00",
+    "category": "Leads",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-28T00:00:00",
+    "category": "Quotes",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-30T00:00:00",
+    "category": "Sales",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-31T00:00:00",
+    "category": "Quotes",
+    "value": 14725
+  },
+  {
+    "date": "2018-08-31T00:00:00",
+    "category": "Sales",
+    "value": 13825
+  },
+  {
+    "date": "2018-09-02T00:00:00",
+    "category": "Sales",
+    "value": 4600
+  },
+  {
+    "date": "2018-09-08T00:00:00",
+    "category": "Sales",
+    "value": 10250
+  },
+  {
+    "date": "2018-09-09T00:00:00",
+    "category": "Opportunities",
+    "value": 7875
+  },
+  {
+    "date": "2018-09-10T00:00:00",
+    "category": "Quotes",
+    "value": 12425
+  },
+  {
+    "date": "2018-09-18T00:00:00",
+    "category": "Opportunities",
+    "value": 6650
+  },
+  {
+    "date": "2018-09-22T00:00:00",
+    "category": "Quotes",
+    "value": 4600
+  },
+  {
+    "date": "2018-09-23T00:00:00",
+    "category": "Opportunities",
+    "value": 12425
+  },
+  {
+    "date": "2018-09-25T00:00:00",
+    "category": "Sales",
+    "value": 6650
+  },
+  {
+    "date": "2018-10-09T00:00:00",
+    "category": "Quotes",
+    "value": 21600
+  },
+  {
+    "date": "2018-10-09T00:00:00",
+    "category": "Sales",
+    "value": 1975
+  },
+  {
+    "date": "2018-10-10T00:00:00",
+    "category": "Quotes",
+    "value": 11700
+  },
+  {
+    "date": "2018-10-12T00:00:00",
+    "category": "Quotes",
+    "value": 1975
+  },
+  {
+    "date": "2018-10-13T00:00:00",
+    "category": "Quotes",
+    "value": 2350
+  },
+  {
+    "date": "2018-10-13T00:00:00",
+    "category": "Sales",
+    "value": 2350
+  },
+  {
+    "date": "2018-10-14T00:00:00",
+    "category": "Quotes",
+    "value": 1975
+  },
+  {
+    "date": "2018-10-17T00:00:00",
+    "category": "Quotes",
+    "value": 9800
+  },
+  {
+    "date": "2018-10-18T00:00:00",
+    "category": "Leads",
+    "value": 2350
+  },
+  {
+    "date": "2018-10-18T00:00:00",
+    "category": "Opportunities",
+    "value": 3250
+  },
+  {
+    "date": "2018-10-20T00:00:00",
+    "category": "Opportunities",
+    "value": 3250
+  },
+  {
+    "date": "2018-10-25T00:00:00",
+    "category": "Leads",
+    "value": 3250
+  },
+  {
+    "date": "2018-10-25T00:00:00",
+    "category": "Sales",
+    "value": 13050
+  },
+  {
+    "date": "2018-10-27T00:00:00",
+    "category": "Sales",
+    "value": 5750
+  },
+  {
+    "date": "2018-10-30T00:00:00",
+    "category": "Sales",
+    "value": 9800
+  },
+  {
+    "date": "2018-11-02T00:00:00",
+    "category": "Opportunities",
+    "value": 2525
+  },
+  {
+    "date": "2018-11-04T00:00:00",
+    "category": "Quotes",
+    "value": 12650
+  },
+  {
+    "date": "2018-11-12T00:00:00",
+    "category": "Sales",
+    "value": 15400
+  },
+  {
+    "date": "2018-11-14T00:00:00",
+    "category": "Opportunities",
+    "value": 13050
+  },
+  {
+    "date": "2018-11-14T00:00:00",
+    "category": "Sales",
+    "value": 7975
+  },
+  {
+    "date": "2018-11-19T00:00:00",
+    "category": "Quotes",
+    "value": 43075
+  },
+  {
+    "date": "2018-11-19T00:00:00",
+    "category": "Sales",
+    "value": 7975
+  },
+  {
+    "date": "2018-11-26T00:00:00",
+    "category": "Opportunities",
+    "value": 8900
+  },
+  {
+    "date": "2018-11-28T00:00:00",
+    "category": "Leads",
+    "value": 8900
+  },
+  {
+    "date": "2018-11-28T00:00:00",
+    "category": "Quotes",
+    "value": 12475
+  },
+  {
+    "date": "2018-11-30T00:00:00",
+    "category": "Sales",
+    "value": 12475
+  },
+  {
+    "date": "2018-12-02T00:00:00",
+    "category": "Leads",
+    "value": 9050
+  },
+  {
+    "date": "2018-12-06T00:00:00",
+    "category": "Leads",
+    "value": 12475
+  },
+  {
+    "date": "2018-12-07T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2018-12-07T00:00:00",
+    "category": "Sales",
+    "value": 12475
+  },
+  {
+    "date": "2018-12-09T00:00:00",
+    "category": "Quotes",
+    "value": 18100
+  },
+  {
+    "date": "2018-12-12T00:00:00",
+    "category": "Quotes",
+    "value": 27050
+  },
+  {
+    "date": "2018-12-16T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2018-12-17T00:00:00",
+    "category": "Sales",
+    "value": 9050
+  },
+  {
+    "date": "2018-12-20T00:00:00",
+    "category": "Leads",
+    "value": 9050
+  },
+  {
+    "date": "2018-12-22T00:00:00",
+    "category": "Sales",
+    "value": 17050
+  },
+  {
+    "date": "2018-12-24T00:00:00",
+    "category": "Sales",
+    "value": 10000
+  },
+  {
+    "date": "2018-12-25T00:00:00",
+    "category": "Sales",
+    "value": 17050
+  },
+  {
+    "date": "2018-12-31T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2019-01-10T00:00:00",
+    "category": "Quotes",
+    "value": 4275
+  },
+  {
+    "date": "2019-01-10T00:00:00",
+    "category": "Sales",
+    "value": 7475
+  },
+  {
+    "date": "2019-01-12T00:00:00",
+    "category": "Quotes",
+    "value": 7550
+  },
+  {
+    "date": "2019-01-20T00:00:00",
+    "category": "Opportunities",
+    "value": 2350
+  },
+  {
+    "date": "2019-01-25T00:00:00",
+    "category": "Sales",
+    "value": 8675
+  },
+  {
+    "date": "2019-01-29T00:00:00",
+    "category": "Quotes",
+    "value": 12650
+  },
+  {
+    "date": "2019-01-29T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2019-02-09T00:00:00",
+    "category": "Quotes",
+    "value": 12650
+  },
+  {
+    "date": "2019-02-11T00:00:00",
+    "category": "Quotes",
+    "value": 11350
+  },
+  {
+    "date": "2019-02-12T00:00:00",
+    "category": "Leads",
+    "value": 12650
+  },
+  {
+    "date": "2019-02-14T00:00:00",
+    "category": "Opportunities",
+    "value": 12650
+  },
+  {
+    "date": "2019-02-15T00:00:00",
+    "category": "Quotes",
+    "value": 11350
+  },
+  {
+    "date": "2019-02-16T00:00:00",
+    "category": "Opportunities",
+    "value": 41175
+  },
+  {
+    "date": "2019-02-18T00:00:00",
+    "category": "Sales",
+    "value": 12650
+  },
+  {
+    "date": "2019-02-19T00:00:00",
+    "category": "Sales",
+    "value": 15250
+  },
+  {
+    "date": "2019-02-25T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2019-02-28T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2019-03-03T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2019-03-09T00:00:00",
+    "category": "Quotes",
+    "value": 3775
+  },
+  {
+    "date": "2019-03-13T00:00:00",
+    "category": "Quotes",
+    "value": 23725
+  },
+  {
+    "date": "2019-03-24T00:00:00",
+    "category": "Leads",
+    "value": 1925
+  },
+  {
+    "date": "2019-03-24T00:00:00",
+    "category": "Opportunities",
+    "value": 8325
+  },
+  {
+    "date": "2019-03-24T00:00:00",
+    "category": "Sales",
+    "value": 8325
+  },
+  {
+    "date": "2019-03-25T00:00:00",
+    "category": "Quotes",
+    "value": 42850
+  },
+  {
+    "date": "2019-03-27T00:00:00",
+    "category": "Leads",
+    "value": 21425
+  },
+  {
+    "date": "2019-03-30T00:00:00",
+    "category": "Leads",
+    "value": 21425
+  },
+  {
+    "date": "2019-03-31T00:00:00",
+    "category": "Sales",
+    "value": 7600
+  },
+  {
+    "date": "2019-04-04T00:00:00",
+    "category": "Sales",
+    "value": 7600
+  },
+  {
+    "date": "2019-04-06T00:00:00",
+    "category": "Opportunities",
+    "value": 21425
+  },
+  {
+    "date": "2019-04-06T00:00:00",
+    "category": "Quotes",
+    "value": 1925
+  },
+  {
+    "date": "2019-04-09T00:00:00",
+    "category": "Opportunities",
+    "value": 8000
+  },
+  {
+    "date": "2019-04-12T00:00:00",
+    "category": "Sales",
+    "value": 11700
+  },
+  {
+    "date": "2019-04-13T00:00:00",
+    "category": "Sales",
+    "value": 11700
+  },
+  {
+    "date": "2019-04-14T00:00:00",
+    "category": "Sales",
+    "value": 9100
+  },
+  {
+    "date": "2019-04-18T00:00:00",
+    "category": "Sales",
+    "value": 9100
+  },
+  {
+    "date": "2019-04-22T00:00:00",
+    "category": "Sales",
+    "value": 9100
+  },
+  {
+    "date": "2019-04-24T00:00:00",
+    "category": "Sales",
+    "value": 4375
+  },
+  {
+    "date": "2019-04-27T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2019-05-05T00:00:00",
+    "category": "Quotes",
+    "value": 8425
+  },
+  {
+    "date": "2019-05-17T00:00:00",
+    "category": "Opportunities",
+    "value": 5950
+  },
+  {
+    "date": "2019-05-18T00:00:00",
+    "category": "Sales",
+    "value": 6625
+  },
+  {
+    "date": "2019-05-19T00:00:00",
+    "category": "Sales",
+    "value": 6625
+  },
+  {
+    "date": "2019-05-20T00:00:00",
+    "category": "Opportunities",
+    "value": 1925
+  },
+  {
+    "date": "2019-05-20T00:00:00",
+    "category": "Quotes",
+    "value": 21600
+  },
+  {
+    "date": "2019-05-26T00:00:00",
+    "category": "Opportunities",
+    "value": 43200
+  },
+  {
+    "date": "2019-05-27T00:00:00",
+    "category": "Leads",
+    "value": 1925
+  },
+  {
+    "date": "2019-05-29T00:00:00",
+    "category": "Leads",
+    "value": 1925
+  },
+  {
+    "date": "2019-05-29T00:00:00",
+    "category": "Opportunities",
+    "value": 1925
+  },
+  {
+    "date": "2019-05-29T00:00:00",
+    "category": "Quotes",
+    "value": 1925
+  },
+  {
+    "date": "2019-05-30T00:00:00",
+    "category": "Sales",
+    "value": 23525
+  },
+  {
+    "date": "2019-05-31T00:00:00",
+    "category": "Opportunities",
+    "value": 8000
+  },
+  {
+    "date": "2019-05-31T00:00:00",
+    "category": "Quotes",
+    "value": 21600
+  },
+  {
+    "date": "2019-06-02T00:00:00",
+    "category": "Quotes",
+    "value": 9125
+  },
+  {
+    "date": "2019-06-02T00:00:00",
+    "category": "Sales",
+    "value": 17150
+  },
+  {
+    "date": "2019-06-06T00:00:00",
+    "category": "Sales",
+    "value": 11800
+  },
+  {
+    "date": "2019-06-12T00:00:00",
+    "category": "Opportunities",
+    "value": 9125
+  },
+  {
+    "date": "2019-06-17T00:00:00",
+    "category": "Sales",
+    "value": 12925
+  },
+  {
+    "date": "2019-06-19T00:00:00",
+    "category": "Sales",
+    "value": 4450
+  },
+  {
+    "date": "2019-06-21T00:00:00",
+    "category": "Sales",
+    "value": 11800
+  },
+  {
+    "date": "2019-06-28T00:00:00",
+    "category": "Sales",
+    "value": 5950
+  },
+  {
+    "date": "2019-06-29T00:00:00",
+    "category": "Quotes",
+    "value": 12925
+  },
+  {
+    "date": "2019-06-30T00:00:00",
+    "category": "Quotes",
+    "value": 12925
+  },
+  {
+    "date": "2019-07-01T00:00:00",
+    "category": "Opportunities",
+    "value": 20375
+  },
+  {
+    "date": "2019-07-04T00:00:00",
+    "category": "Leads",
+    "value": 8325
+  },
+  {
+    "date": "2019-07-05T00:00:00",
+    "category": "Quotes",
+    "value": 14225
+  },
+  {
+    "date": "2019-07-06T00:00:00",
+    "category": "Opportunities",
+    "value": 8325
+  },
+  {
+    "date": "2019-07-06T00:00:00",
+    "category": "Sales",
+    "value": 5950
+  },
+  {
+    "date": "2019-07-12T00:00:00",
+    "category": "Sales",
+    "value": 14225
+  },
+  {
+    "date": "2019-07-15T00:00:00",
+    "category": "Sales",
+    "value": 14225
+  },
+  {
+    "date": "2019-07-16T00:00:00",
+    "category": "Quotes",
+    "value": 5950
+  },
+  {
+    "date": "2019-07-25T00:00:00",
+    "category": "Quotes",
+    "value": 12950
+  },
+  {
+    "date": "2019-07-26T00:00:00",
+    "category": "Sales",
+    "value": 2600
+  },
+  {
+    "date": "2019-07-30T00:00:00",
+    "category": "Sales",
+    "value": 15750
+  },
+  {
+    "date": "2019-07-31T00:00:00",
+    "category": "Quotes",
+    "value": 10125
+  },
+  {
+    "date": "2019-08-09T00:00:00",
+    "category": "Quotes",
+    "value": 12950
+  },
+  {
+    "date": "2019-08-11T00:00:00",
+    "category": "Leads",
+    "value": 10950
+  },
+  {
+    "date": "2019-08-11T00:00:00",
+    "category": "Sales",
+    "value": 15750
+  },
+  {
+    "date": "2019-08-12T00:00:00",
+    "category": "Sales",
+    "value": 10950
+  },
+  {
+    "date": "2019-08-13T00:00:00",
+    "category": "Sales",
+    "value": 12375
+  },
+  {
+    "date": "2019-08-15T00:00:00",
+    "category": "Sales",
+    "value": 12375
+  },
+  {
+    "date": "2019-08-19T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2019-08-20T00:00:00",
+    "category": "Sales",
+    "value": 14900
+  },
+  {
+    "date": "2019-08-22T00:00:00",
+    "category": "Quotes",
+    "value": 10950
+  },
+  {
+    "date": "2019-08-25T00:00:00",
+    "category": "Opportunities",
+    "value": 13325
+  },
+  {
+    "date": "2019-08-25T00:00:00",
+    "category": "Sales",
+    "value": 13725
+  },
+  {
+    "date": "2019-08-26T00:00:00",
+    "category": "Quotes",
+    "value": 19725
+  },
+  {
+    "date": "2019-08-27T00:00:00",
+    "category": "Quotes",
+    "value": 37525
+  },
+  {
+    "date": "2019-08-27T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2019-08-29T00:00:00",
+    "category": "Opportunities",
+    "value": 13325
+  },
+  {
+    "date": "2019-08-29T00:00:00",
+    "category": "Quotes",
+    "value": 3475
+  },
+  {
+    "date": "2019-08-30T00:00:00",
+    "category": "Quotes",
+    "value": 21275
+  },
+  {
+    "date": "2019-08-31T00:00:00",
+    "category": "Sales",
+    "value": 33875
+  },
+  {
+    "date": "2019-09-01T00:00:00",
+    "category": "Sales",
+    "value": 5675
+  },
+  {
+    "date": "2019-09-02T00:00:00",
+    "category": "Leads",
+    "value": 13325
+  },
+  {
+    "date": "2019-09-02T00:00:00",
+    "category": "Opportunities",
+    "value": 26950
+  },
+  {
+    "date": "2019-09-02T00:00:00",
+    "category": "Quotes",
+    "value": 5675
+  },
+  {
+    "date": "2019-09-03T00:00:00",
+    "category": "Opportunities",
+    "value": 7375
+  },
+  {
+    "date": "2019-09-04T00:00:00",
+    "category": "Quotes",
+    "value": 13725
+  },
+  {
+    "date": "2019-09-04T00:00:00",
+    "category": "Sales",
+    "value": 21275
+  },
+  {
+    "date": "2019-09-05T00:00:00",
+    "category": "Leads",
+    "value": 21275
+  },
+  {
+    "date": "2019-09-05T00:00:00",
+    "category": "Opportunities",
+    "value": 5675
+  },
+  {
+    "date": "2019-09-05T00:00:00",
+    "category": "Sales",
+    "value": 5675
+  },
+  {
+    "date": "2019-09-06T00:00:00",
+    "category": "Quotes",
+    "value": 7375
+  },
+  {
+    "date": "2019-09-08T00:00:00",
+    "category": "Sales",
+    "value": 43525
+  },
+  {
+    "date": "2019-09-09T00:00:00",
+    "category": "Opportunities",
+    "value": 17200
+  },
+  {
+    "date": "2019-09-09T00:00:00",
+    "category": "Sales",
+    "value": 7375
+  },
+  {
+    "date": "2019-09-11T00:00:00",
+    "category": "Leads",
+    "value": 3475
+  },
+  {
+    "date": "2019-09-12T00:00:00",
+    "category": "Sales",
+    "value": 14750
+  },
+  {
+    "date": "2019-09-13T00:00:00",
+    "category": "Opportunities",
+    "value": 3825
+  },
+  {
+    "date": "2019-09-13T00:00:00",
+    "category": "Quotes",
+    "value": 3825
+  },
+  {
+    "date": "2019-09-13T00:00:00",
+    "category": "Sales",
+    "value": 8900
+  },
+  {
+    "date": "2019-09-14T00:00:00",
+    "category": "Quotes",
+    "value": 25100
+  },
+  {
+    "date": "2019-09-14T00:00:00",
+    "category": "Sales",
+    "value": 3475
+  },
+  {
+    "date": "2019-09-15T00:00:00",
+    "category": "Quotes",
+    "value": 21275
+  },
+  {
+    "date": "2019-09-16T00:00:00",
+    "category": "Opportunities",
+    "value": 21275
+  },
+  {
+    "date": "2019-09-16T00:00:00",
+    "category": "Quotes",
+    "value": 21275
+  },
+  {
+    "date": "2019-09-20T00:00:00",
+    "category": "Opportunities",
+    "value": 17200
+  },
+  {
+    "date": "2019-09-21T00:00:00",
+    "category": "Sales",
+    "value": 17200
+  },
+  {
+    "date": "2019-09-22T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2019-09-22T00:00:00",
+    "category": "Sales",
+    "value": 6025
+  },
+  {
+    "date": "2019-09-23T00:00:00",
+    "category": "Sales",
+    "value": 6025
+  },
+  {
+    "date": "2019-09-24T00:00:00",
+    "category": "Opportunities",
+    "value": 3825
+  },
+  {
+    "date": "2019-09-26T00:00:00",
+    "category": "Sales",
+    "value": 19000
+  },
+  {
+    "date": "2019-09-28T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2019-09-29T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2019-09-30T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2019-10-01T00:00:00",
+    "category": "Sales",
+    "value": 4675
+  },
+  {
+    "date": "2019-10-03T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2019-10-05T00:00:00",
+    "category": "Quotes",
+    "value": 8375
+  },
+  {
+    "date": "2019-10-05T00:00:00",
+    "category": "Sales",
+    "value": 19000
+  },
+  {
+    "date": "2019-10-06T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2019-10-06T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2019-10-07T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2019-10-09T00:00:00",
+    "category": "Opportunities",
+    "value": 18725
+  },
+  {
+    "date": "2019-10-10T00:00:00",
+    "category": "Leads",
+    "value": 8375
+  },
+  {
+    "date": "2019-10-11T00:00:00",
+    "category": "Leads",
+    "value": 6025
+  },
+  {
+    "date": "2019-10-11T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2019-10-11T00:00:00",
+    "category": "Sales",
+    "value": 14000
+  },
+  {
+    "date": "2019-10-12T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2019-10-13T00:00:00",
+    "category": "Sales",
+    "value": 18325
+  },
+  {
+    "date": "2019-10-14T00:00:00",
+    "category": "Leads",
+    "value": 5625
+  },
+  {
+    "date": "2019-10-14T00:00:00",
+    "category": "Quotes",
+    "value": 18325
+  },
+  {
+    "date": "2019-10-15T00:00:00",
+    "category": "Quotes",
+    "value": 1000
+  },
+  {
+    "date": "2019-10-16T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2019-10-18T00:00:00",
+    "category": "Leads",
+    "value": 1000
+  },
+  {
+    "date": "2019-10-18T00:00:00",
+    "category": "Opportunities",
+    "value": 4725
+  },
+  {
+    "date": "2019-10-18T00:00:00",
+    "category": "Sales",
+    "value": 1000
+  },
+  {
+    "date": "2019-10-19T00:00:00",
+    "category": "Opportunities",
+    "value": 4675
+  },
+  {
+    "date": "2019-10-20T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2019-10-20T00:00:00",
+    "category": "Sales",
+    "value": 3475
+  },
+  {
+    "date": "2019-10-22T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2019-10-22T00:00:00",
+    "category": "Sales",
+    "value": 4725
+  },
+  {
+    "date": "2019-10-25T00:00:00",
+    "category": "Leads",
+    "value": 5625
+  },
+  {
+    "date": "2019-10-25T00:00:00",
+    "category": "Quotes",
+    "value": 12700
+  },
+  {
+    "date": "2019-10-25T00:00:00",
+    "category": "Sales",
+    "value": 8200
+  },
+  {
+    "date": "2019-10-26T00:00:00",
+    "category": "Quotes",
+    "value": 5625
+  },
+  {
+    "date": "2019-10-28T00:00:00",
+    "category": "Leads",
+    "value": 1000
+  },
+  {
+    "date": "2019-10-28T00:00:00",
+    "category": "Opportunities",
+    "value": 8900
+  },
+  {
+    "date": "2019-10-28T00:00:00",
+    "category": "Quotes",
+    "value": 13625
+  },
+  {
+    "date": "2019-10-29T00:00:00",
+    "category": "Leads",
+    "value": 13225
+  },
+  {
+    "date": "2019-10-29T00:00:00",
+    "category": "Quotes",
+    "value": 1000
+  },
+  {
+    "date": "2019-10-30T00:00:00",
+    "category": "Opportunities",
+    "value": 8200
+  },
+  {
+    "date": "2019-11-03T00:00:00",
+    "category": "Opportunities",
+    "value": 13225
+  },
+  {
+    "date": "2019-11-05T00:00:00",
+    "category": "Opportunities",
+    "value": 12725
+  },
+  {
+    "date": "2019-11-05T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2019-11-05T00:00:00",
+    "category": "Sales",
+    "value": 13225
+  },
+  {
+    "date": "2019-11-06T00:00:00",
+    "category": "Opportunities",
+    "value": 12725
+  },
+  {
+    "date": "2019-11-08T00:00:00",
+    "category": "Quotes",
+    "value": 14725
+  },
+  {
+    "date": "2019-11-09T00:00:00",
+    "category": "Quotes",
+    "value": 26550
+  },
+  {
+    "date": "2019-11-10T00:00:00",
+    "category": "Leads",
+    "value": 13225
+  },
+  {
+    "date": "2019-11-10T00:00:00",
+    "category": "Opportunities",
+    "value": 13225
+  },
+  {
+    "date": "2019-11-12T00:00:00",
+    "category": "Sales",
+    "value": 6025
+  },
+  {
+    "date": "2019-11-13T00:00:00",
+    "category": "Opportunities",
+    "value": 13225
+  },
+  {
+    "date": "2019-11-13T00:00:00",
+    "category": "Sales",
+    "value": 12725
+  },
+  {
+    "date": "2019-11-15T00:00:00",
+    "category": "Leads",
+    "value": 12725
+  },
+  {
+    "date": "2019-11-15T00:00:00",
+    "category": "Quotes",
+    "value": 12725
+  },
+  {
+    "date": "2019-11-17T00:00:00",
+    "category": "Opportunities",
+    "value": 13825
+  },
+  {
+    "date": "2019-11-18T00:00:00",
+    "category": "Sales",
+    "value": 14725
+  },
+  {
+    "date": "2019-11-19T00:00:00",
+    "category": "Sales",
+    "value": 12725
+  },
+  {
+    "date": "2019-11-20T00:00:00",
+    "category": "Sales",
+    "value": 6025
+  },
+  {
+    "date": "2019-11-21T00:00:00",
+    "category": "Sales",
+    "value": 13825
+  },
+  {
+    "date": "2019-11-22T00:00:00",
+    "category": "Quotes",
+    "value": 10250
+  },
+  {
+    "date": "2019-11-23T00:00:00",
+    "category": "Opportunities",
+    "value": 14725
+  },
+  {
+    "date": "2019-11-23T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2019-11-24T00:00:00",
+    "category": "Opportunities",
+    "value": 26225
+  },
+  {
+    "date": "2019-11-25T00:00:00",
+    "category": "Sales",
+    "value": 12425
+  },
+  {
+    "date": "2019-11-27T00:00:00",
+    "category": "Quotes",
+    "value": 4600
+  },
+  {
+    "date": "2019-11-30T00:00:00",
+    "category": "Quotes",
+    "value": 10250
+  },
+  {
+    "date": "2019-12-04T00:00:00",
+    "category": "Opportunities",
+    "value": 10250
+  },
+  {
+    "date": "2019-12-04T00:00:00",
+    "category": "Quotes",
+    "value": 22675
+  },
+  {
+    "date": "2019-12-05T00:00:00",
+    "category": "Sales",
+    "value": 10250
+  },
+  {
+    "date": "2019-12-07T00:00:00",
+    "category": "Sales",
+    "value": 4600
+  },
+  {
+    "date": "2019-12-08T00:00:00",
+    "category": "Sales",
+    "value": 7875
+  },
+  {
+    "date": "2019-12-11T00:00:00",
+    "category": "Quotes",
+    "value": 4600
+  },
+  {
+    "date": "2019-12-11T00:00:00",
+    "category": "Sales",
+    "value": 12425
+  },
+  {
+    "date": "2019-12-14T00:00:00",
+    "category": "Sales",
+    "value": 1975
+  },
+  {
+    "date": "2019-12-16T00:00:00",
+    "category": "Opportunities",
+    "value": 1975
+  },
+  {
+    "date": "2019-12-17T00:00:00",
+    "category": "Quotes",
+    "value": 11700
+  },
+  {
+    "date": "2019-12-17T00:00:00",
+    "category": "Sales",
+    "value": 14525
+  },
+  {
+    "date": "2019-12-18T00:00:00",
+    "category": "Sales",
+    "value": 21600
+  },
+  {
+    "date": "2019-12-23T00:00:00",
+    "category": "Leads",
+    "value": 21600
+  },
+  {
+    "date": "2019-12-23T00:00:00",
+    "category": "Quotes",
+    "value": 11700
+  },
+  {
+    "date": "2019-12-23T00:00:00",
+    "category": "Sales",
+    "value": 21600
+  },
+  {
+    "date": "2019-12-24T00:00:00",
+    "category": "Quotes",
+    "value": 6650
+  },
+  {
+    "date": "2019-12-30T00:00:00",
+    "category": "Quotes",
+    "value": 3250
+  },
+  {
+    "date": "2019-12-30T00:00:00",
+    "category": "Sales",
+    "value": 2350
+  },
+  {
+    "date": "2019-12-31T00:00:00",
+    "category": "Leads",
+    "value": 1975
+  },
+  {
+    "date": "2020-01-01T00:00:00",
+    "category": "Sales",
+    "value": 23950
+  },
+  {
+    "date": "2020-01-03T00:00:00",
+    "category": "Leads",
+    "value": 11700
+  },
+  {
+    "date": "2020-01-05T00:00:00",
+    "category": "Leads",
+    "value": 2350
+  },
+  {
+    "date": "2020-01-05T00:00:00",
+    "category": "Sales",
+    "value": 1975
+  },
+  {
+    "date": "2020-01-06T00:00:00",
+    "category": "Quotes",
+    "value": 5750
+  },
+  {
+    "date": "2020-01-07T00:00:00",
+    "category": "Opportunities",
+    "value": 2350
+  },
+  {
+    "date": "2020-01-07T00:00:00",
+    "category": "Quotes",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-08T00:00:00",
+    "category": "Sales",
+    "value": 3250
+  },
+  {
+    "date": "2020-01-10T00:00:00",
+    "category": "Quotes",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-11T00:00:00",
+    "category": "Leads",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-13T00:00:00",
+    "category": "Opportunities",
+    "value": 6475
+  },
+  {
+    "date": "2020-01-13T00:00:00",
+    "category": "Quotes",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-14T00:00:00",
+    "category": "Quotes",
+    "value": 6475
+  },
+  {
+    "date": "2020-01-14T00:00:00",
+    "category": "Sales",
+    "value": 13050
+  },
+  {
+    "date": "2020-01-15T00:00:00",
+    "category": "Quotes",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-16T00:00:00",
+    "category": "Opportunities",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-18T00:00:00",
+    "category": "Quotes",
+    "value": 13050
+  },
+  {
+    "date": "2020-01-19T00:00:00",
+    "category": "Opportunities",
+    "value": 2525
+  },
+  {
+    "date": "2020-01-21T00:00:00",
+    "category": "Quotes",
+    "value": 12650
+  },
+  {
+    "date": "2020-01-22T00:00:00",
+    "category": "Quotes",
+    "value": 12650
+  },
+  {
+    "date": "2020-01-24T00:00:00",
+    "category": "Sales",
+    "value": 13050
+  },
+  {
+    "date": "2020-01-26T00:00:00",
+    "category": "Leads",
+    "value": 9800
+  },
+  {
+    "date": "2020-01-26T00:00:00",
+    "category": "Opportunities",
+    "value": 15400
+  },
+  {
+    "date": "2020-01-27T00:00:00",
+    "category": "Sales",
+    "value": 15400
+  },
+  {
+    "date": "2020-01-28T00:00:00",
+    "category": "Opportunities",
+    "value": 9800
+  },
+  {
+    "date": "2020-01-30T00:00:00",
+    "category": "Quotes",
+    "value": 12275
+  },
+  {
+    "date": "2020-01-31T00:00:00",
+    "category": "Opportunities",
+    "value": 12275
+  },
+  {
+    "date": "2020-02-01T00:00:00",
+    "category": "Opportunities",
+    "value": 12275
+  },
+  {
+    "date": "2020-02-05T00:00:00",
+    "category": "Sales",
+    "value": 12275
+  },
+  {
+    "date": "2020-02-08T00:00:00",
+    "category": "Leads",
+    "value": 7975
+  },
+  {
+    "date": "2020-02-08T00:00:00",
+    "category": "Quotes",
+    "value": 7975
+  },
+  {
+    "date": "2020-02-11T00:00:00",
+    "category": "Opportunities",
+    "value": 15925
+  },
+  {
+    "date": "2020-02-12T00:00:00",
+    "category": "Sales",
+    "value": 8900
+  },
+  {
+    "date": "2020-02-14T00:00:00",
+    "category": "Opportunities",
+    "value": 12475
+  },
+  {
+    "date": "2020-02-15T00:00:00",
+    "category": "Sales",
+    "value": 7975
+  },
+  {
+    "date": "2020-02-18T00:00:00",
+    "category": "Opportunities",
+    "value": 8900
+  },
+  {
+    "date": "2020-02-20T00:00:00",
+    "category": "Sales",
+    "value": 12475
+  },
+  {
+    "date": "2020-02-23T00:00:00",
+    "category": "Quotes",
+    "value": 10000
+  },
+  {
+    "date": "2020-02-26T00:00:00",
+    "category": "Leads",
+    "value": 9050
+  },
+  {
+    "date": "2020-02-27T00:00:00",
+    "category": "Quotes",
+    "value": 10000
+  },
+  {
+    "date": "2020-03-02T00:00:00",
+    "category": "Opportunities",
+    "value": 12475
+  },
+  {
+    "date": "2020-03-02T00:00:00",
+    "category": "Quotes",
+    "value": 12475
+  },
+  {
+    "date": "2020-03-04T00:00:00",
+    "category": "Leads",
+    "value": 10000
+  },
+  {
+    "date": "2020-03-04T00:00:00",
+    "category": "Sales",
+    "value": 9050
+  },
+  {
+    "date": "2020-03-05T00:00:00",
+    "category": "Quotes",
+    "value": 9050
+  },
+  {
+    "date": "2020-03-05T00:00:00",
+    "category": "Sales",
+    "value": 12475
+  },
+  {
+    "date": "2020-03-10T00:00:00",
+    "category": "Leads",
+    "value": 10000
+  },
+  {
+    "date": "2020-03-15T00:00:00",
+    "category": "Opportunities",
+    "value": 10000
+  },
+  {
+    "date": "2020-03-16T00:00:00",
+    "category": "Opportunities",
+    "value": 17050
+  },
+  {
+    "date": "2020-03-17T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2020-03-21T00:00:00",
+    "category": "Quotes",
+    "value": 7550
+  },
+  {
+    "date": "2020-03-22T00:00:00",
+    "category": "Sales",
+    "value": 13175
+  },
+  {
+    "date": "2020-03-23T00:00:00",
+    "category": "Quotes",
+    "value": 17050
+  },
+  {
+    "date": "2020-03-23T00:00:00",
+    "category": "Sales",
+    "value": 17050
+  },
+  {
+    "date": "2020-03-25T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2020-03-27T00:00:00",
+    "category": "Quotes",
+    "value": 5625
+  },
+  {
+    "date": "2020-03-28T00:00:00",
+    "category": "Sales",
+    "value": 7550
+  },
+  {
+    "date": "2020-03-29T00:00:00",
+    "category": "Leads",
+    "value": 4275
+  },
+  {
+    "date": "2020-03-30T00:00:00",
+    "category": "Opportunities",
+    "value": 7550
+  },
+  {
+    "date": "2020-03-30T00:00:00",
+    "category": "Sales",
+    "value": 7475
+  },
+  {
+    "date": "2020-03-31T00:00:00",
+    "category": "Quotes",
+    "value": 4275
+  },
+  {
+    "date": "2020-04-02T00:00:00",
+    "category": "Quotes",
+    "value": 7475
+  },
+  {
+    "date": "2020-04-03T00:00:00",
+    "category": "Quotes",
+    "value": 2350
+  },
+  {
+    "date": "2020-04-07T00:00:00",
+    "category": "Opportunities",
+    "value": 7550
+  },
+  {
+    "date": "2020-04-10T00:00:00",
+    "category": "Sales",
+    "value": 8550
+  },
+  {
+    "date": "2020-04-11T00:00:00",
+    "category": "Leads",
+    "value": 4275
+  },
+  {
+    "date": "2020-04-11T00:00:00",
+    "category": "Quotes",
+    "value": 7475
+  },
+  {
+    "date": "2020-04-14T00:00:00",
+    "category": "Quotes",
+    "value": 7475
+  },
+  {
+    "date": "2020-04-16T00:00:00",
+    "category": "Sales",
+    "value": 2350
+  },
+  {
+    "date": "2020-04-17T00:00:00",
+    "category": "Quotes",
+    "value": 2350
+  },
+  {
+    "date": "2020-04-18T00:00:00",
+    "category": "Sales",
+    "value": 2350
+  },
+  {
+    "date": "2020-04-19T00:00:00",
+    "category": "Sales",
+    "value": 2350
+  },
+  {
+    "date": "2020-04-21T00:00:00",
+    "category": "Quotes",
+    "value": 8675
+  },
+  {
+    "date": "2020-04-21T00:00:00",
+    "category": "Sales",
+    "value": 8675
+  },
+  {
+    "date": "2020-04-22T00:00:00",
+    "category": "Quotes",
+    "value": 12950
+  },
+  {
+    "date": "2020-04-23T00:00:00",
+    "category": "Quotes",
+    "value": 12950
+  },
+  {
+    "date": "2020-04-24T00:00:00",
+    "category": "Sales",
+    "value": 8675
+  },
+  {
+    "date": "2020-04-25T00:00:00",
+    "category": "Sales",
+    "value": 12650
+  },
+  {
+    "date": "2020-04-29T00:00:00",
+    "category": "Leads",
+    "value": 24300
+  },
+  {
+    "date": "2020-05-01T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2020-05-04T00:00:00",
+    "category": "Leads",
+    "value": 12650
+  },
+  {
+    "date": "2020-05-05T00:00:00",
+    "category": "Quotes",
+    "value": 11350
+  },
+  {
+    "date": "2020-05-06T00:00:00",
+    "category": "Opportunities",
+    "value": 11350
+  },
+  {
+    "date": "2020-05-07T00:00:00",
+    "category": "Opportunities",
+    "value": 11350
+  },
+  {
+    "date": "2020-05-07T00:00:00",
+    "category": "Quotes",
+    "value": 15250
+  },
+  {
+    "date": "2020-05-09T00:00:00",
+    "category": "Quotes",
+    "value": 11350
+  },
+  {
+    "date": "2020-05-12T00:00:00",
+    "category": "Sales",
+    "value": 15250
+  },
+  {
+    "date": "2020-05-13T00:00:00",
+    "category": "Sales",
+    "value": 19025
+  },
+  {
+    "date": "2020-05-20T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2020-05-24T00:00:00",
+    "category": "Opportunities",
+    "value": 3775
+  },
+  {
+    "date": "2020-05-25T00:00:00",
+    "category": "Leads",
+    "value": 18725
+  },
+  {
+    "date": "2020-05-26T00:00:00",
+    "category": "Leads",
+    "value": 3775
+  },
+  {
+    "date": "2020-05-26T00:00:00",
+    "category": "Sales",
+    "value": 3775
+  },
+  {
+    "date": "2020-05-27T00:00:00",
+    "category": "Opportunities",
+    "value": 8325
+  },
+  {
+    "date": "2020-05-29T00:00:00",
+    "category": "Leads",
+    "value": 8325
+  },
+  {
+    "date": "2020-05-30T00:00:00",
+    "category": "Sales",
+    "value": 5000
+  },
+  {
+    "date": "2020-05-31T00:00:00",
+    "category": "Sales",
+    "value": 3775
+  },
+  {
+    "date": "2020-06-04T00:00:00",
+    "category": "Quotes",
+    "value": 8325
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Leads",
+    "value": 5000
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Opportunities",
+    "value": 18725
+  },
+  {
+    "date": "2020-06-05T00:00:00",
+    "category": "Quotes",
+    "value": 5000
+  },
+  {
+    "date": "2020-06-07T00:00:00",
+    "category": "Quotes",
+    "value": 18725
+  },
+  {
+    "date": "2020-06-08T00:00:00",
+    "category": "Quotes",
+    "value": 26425
+  },
+  {
+    "date": "2020-06-09T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2020-06-10T00:00:00",
+    "category": "Quotes",
+    "value": 21425
+  },
+  {
+    "date": "2020-06-11T00:00:00",
+    "category": "Leads",
+    "value": 7600
+  },
+  {
+    "date": "2020-06-14T00:00:00",
+    "category": "Leads",
+    "value": 8325
+  },
+  {
+    "date": "2020-06-14T00:00:00",
+    "category": "Opportunities",
+    "value": 8325
+  },
+  {
+    "date": "2020-06-18T00:00:00",
+    "category": "Opportunities",
+    "value": 5000
+  },
+  {
+    "date": "2020-06-21T00:00:00",
+    "category": "Quotes",
+    "value": 21425
+  },
+  {
+    "date": "2020-06-21T00:00:00",
+    "category": "Sales",
+    "value": 1925
+  },
+  {
+    "date": "2020-06-22T00:00:00",
+    "category": "Leads",
+    "value": 8000
+  },
+  {
+    "date": "2020-06-22T00:00:00",
+    "category": "Opportunities",
+    "value": 1925
+  },
+  {
+    "date": "2020-06-24T00:00:00",
+    "category": "Sales",
+    "value": 9100
+  },
+  {
+    "date": "2020-06-26T00:00:00",
+    "category": "Sales",
+    "value": 3875
+  },
+  {
+    "date": "2020-06-28T00:00:00",
+    "category": "Opportunities",
+    "value": 25775
+  },
+  {
+    "date": "2020-06-28T00:00:00",
+    "category": "Quotes",
+    "value": 1925
+  },
+  {
+    "date": "2020-06-30T00:00:00",
+    "category": "Quotes",
+    "value": 8000
+  },
+  {
+    "date": "2020-07-02T00:00:00",
+    "category": "Opportunities",
+    "value": 8000
+  },
+  {
+    "date": "2020-07-03T00:00:00",
+    "category": "Opportunities",
+    "value": 8000
+  },
+  {
+    "date": "2020-07-03T00:00:00",
+    "category": "Sales",
+    "value": 8000
+  },
+  {
+    "date": "2020-07-06T00:00:00",
+    "category": "Sales",
+    "value": 11700
+  },
+  {
+    "date": "2020-07-08T00:00:00",
+    "category": "Sales",
+    "value": 9100
+  },
+  {
+    "date": "2020-07-10T00:00:00",
+    "category": "Sales",
+    "value": 11700
+  },
+  {
+    "date": "2020-07-13T00:00:00",
+    "category": "Opportunities",
+    "value": 8725
+  },
+  {
+    "date": "2020-07-14T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2020-07-15T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2020-07-18T00:00:00",
+    "category": "Sales",
+    "value": 8425
+  },
+  {
+    "date": "2020-07-20T00:00:00",
+    "category": "Opportunities",
+    "value": 12950
+  },
+  {
+    "date": "2020-07-21T00:00:00",
+    "category": "Quotes",
+    "value": 4375
+  },
+  {
+    "date": "2020-07-24T00:00:00",
+    "category": "Opportunities",
+    "value": 8425
+  },
+  {
+    "date": "2020-07-25T00:00:00",
+    "category": "Sales",
+    "value": 8425
+  },
+  {
+    "date": "2020-07-27T00:00:00",
+    "category": "Sales",
+    "value": 5950
+  },
+  {
+    "date": "2020-07-29T00:00:00",
+    "category": "Sales",
+    "value": 5950
+  },
+  {
+    "date": "2020-07-30T00:00:00",
+    "category": "Opportunities",
+    "value": 6625
+  },
+  {
+    "date": "2020-07-30T00:00:00",
+    "category": "Quotes",
+    "value": 5950
+  },
+  {
+    "date": "2020-08-02T00:00:00",
+    "category": "Sales",
+    "value": 11875
+  },
+  {
+    "date": "2020-08-03T00:00:00",
+    "category": "Quotes",
+    "value": 5950
+  },
+  {
+    "date": "2020-08-05T00:00:00",
+    "category": "Sales",
+    "value": 21600
+  },
+  {
+    "date": "2020-08-06T00:00:00",
+    "category": "Quotes",
+    "value": 6625
+  },
+  {
+    "date": "2020-08-07T00:00:00",
+    "category": "Sales",
+    "value": 6625
+  },
+  {
+    "date": "2020-08-08T00:00:00",
+    "category": "Quotes",
+    "value": 1925
+  },
+  {
+    "date": "2020-08-12T00:00:00",
+    "category": "Sales",
+    "value": 36225
+  },
+  {
+    "date": "2020-08-13T00:00:00",
+    "category": "Quotes",
+    "value": 21600
+  },
+  {
+    "date": "2020-08-13T00:00:00",
+    "category": "Sales",
+    "value": 1925
+  },
+  {
+    "date": "2020-08-14T00:00:00",
+    "category": "Quotes",
+    "value": 21600
+  },
+  {
+    "date": "2020-08-15T00:00:00",
+    "category": "Leads",
+    "value": 8000
+  },
+  {
+    "date": "2020-08-16T00:00:00",
+    "category": "Leads",
+    "value": 1925
+  },
+  {
+    "date": "2020-08-17T00:00:00",
+    "category": "Leads",
+    "value": 8000
+  },
+  {
+    "date": "2020-08-17T00:00:00",
+    "category": "Quotes",
+    "value": 43200
+  },
+  {
+    "date": "2020-08-18T00:00:00",
+    "category": "Leads",
+    "value": 21600
+  },
+  {
+    "date": "2020-08-18T00:00:00",
+    "category": "Quotes",
+    "value": 8000
+  },
+  {
+    "date": "2020-08-19T00:00:00",
+    "category": "Opportunities",
+    "value": 9125
+  },
+  {
+    "date": "2020-08-19T00:00:00",
+    "category": "Quotes",
+    "value": 1925
+  },
+  {
+    "date": "2020-08-21T00:00:00",
+    "category": "Quotes",
+    "value": 21600
+  },
+  {
+    "date": "2020-08-23T00:00:00",
+    "category": "Sales",
+    "value": 8000
+  },
+  {
+    "date": "2020-08-24T00:00:00",
+    "category": "Sales",
+    "value": 8000
+  },
+  {
+    "date": "2020-08-25T00:00:00",
+    "category": "Leads",
+    "value": 8000
+  },
+  {
+    "date": "2020-08-26T00:00:00",
+    "category": "Sales",
+    "value": 11800
+  },
+  {
+    "date": "2020-08-29T00:00:00",
+    "category": "Quotes",
+    "value": 9125
+  },
+  {
+    "date": "2020-08-30T00:00:00",
+    "category": "Sales",
+    "value": 9125
+  },
+  {
+    "date": "2020-08-31T00:00:00",
+    "category": "Sales",
+    "value": 1925
+  },
+  {
+    "date": "2020-09-01T00:00:00",
+    "category": "Sales",
+    "value": 12925
+  },
+  {
+    "date": "2020-09-05T00:00:00",
+    "category": "Leads",
+    "value": 12925
+  },
+  {
+    "date": "2020-09-06T00:00:00",
+    "category": "Sales",
+    "value": 11800
+  },
+  {
+    "date": "2020-09-12T00:00:00",
+    "category": "Leads",
+    "value": 4450
+  },
+  {
+    "date": "2020-09-13T00:00:00",
+    "category": "Quotes",
+    "value": 8325
+  },
+  {
+    "date": "2020-09-16T00:00:00",
+    "category": "Quotes",
+    "value": 4450
+  },
+  {
+    "date": "2020-09-18T00:00:00",
+    "category": "Sales",
+    "value": 4450
+  },
+  {
+    "date": "2020-09-20T00:00:00",
+    "category": "Sales",
+    "value": 14450
+  },
+  {
+    "date": "2020-09-22T00:00:00",
+    "category": "Quotes",
+    "value": 14450
+  },
+  {
+    "date": "2020-09-23T00:00:00",
+    "category": "Sales",
+    "value": 14450
+  },
+  {
+    "date": "2020-09-26T00:00:00",
+    "category": "Leads",
+    "value": 8325
+  },
+  {
+    "date": "2020-09-27T00:00:00",
+    "category": "Sales",
+    "value": 14225
+  },
+  {
+    "date": "2020-09-29T00:00:00",
+    "category": "Opportunities",
+    "value": 5950
+  },
+  {
+    "date": "2020-09-30T00:00:00",
+    "category": "Sales",
+    "value": 5950
+  },
+  {
+    "date": "2020-10-01T00:00:00",
+    "category": "Quotes",
+    "value": 5950
+  },
+  {
+    "date": "2020-10-01T00:00:00",
+    "category": "Sales",
+    "value": 5950
+  },
+  {
+    "date": "2020-10-02T00:00:00",
+    "category": "Quotes",
+    "value": 14225
+  },
+  {
+    "date": "2020-10-05T00:00:00",
+    "category": "Opportunities",
+    "value": 2600
+  },
+  {
+    "date": "2020-10-05T00:00:00",
+    "category": "Quotes",
+    "value": 2600
+  },
+  {
+    "date": "2020-10-06T00:00:00",
+    "category": "Quotes",
+    "value": 14450
+  },
+  {
+    "date": "2020-10-06T00:00:00",
+    "category": "Sales",
+    "value": 14450
+  },
+  {
+    "date": "2020-10-09T00:00:00",
+    "category": "Sales",
+    "value": 5175
+  },
+  {
+    "date": "2020-10-11T00:00:00",
+    "category": "Quotes",
+    "value": 14225
+  },
+  {
+    "date": "2020-10-12T00:00:00",
+    "category": "Opportunities",
+    "value": 10125
+  },
+  {
+    "date": "2020-10-14T00:00:00",
+    "category": "Leads",
+    "value": 2600
+  },
+  {
+    "date": "2020-10-17T00:00:00",
+    "category": "Opportunities",
+    "value": 2600
+  },
+  {
+    "date": "2020-10-19T00:00:00",
+    "category": "Sales",
+    "value": 10125
+  },
+  {
+    "date": "2020-10-21T00:00:00",
+    "category": "Sales",
+    "value": 15750
+  },
+  {
+    "date": "2020-10-22T00:00:00",
+    "category": "Quotes",
+    "value": 10125
+  },
+  {
+    "date": "2020-10-22T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2020-10-23T00:00:00",
+    "category": "Sales",
+    "value": 2600
+  },
+  {
+    "date": "2020-10-24T00:00:00",
+    "category": "Leads",
+    "value": 10125
+  },
+  {
+    "date": "2020-10-24T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2020-10-26T00:00:00",
+    "category": "Quotes",
+    "value": 10125
+  },
+  {
+    "date": "2020-10-26T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2020-10-27T00:00:00",
+    "category": "Leads",
+    "value": 10125
+  },
+  {
+    "date": "2020-10-27T00:00:00",
+    "category": "Sales",
+    "value": 6000
+  },
+  {
+    "date": "2020-10-28T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2020-10-28T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2020-10-30T00:00:00",
+    "category": "Quotes",
+    "value": 28700
+  },
+  {
+    "date": "2020-10-31T00:00:00",
+    "category": "Opportunities",
+    "value": 5625
+  },
+  {
+    "date": "2020-11-01T00:00:00",
+    "category": "Sales",
+    "value": 6000
+  },
+  {
+    "date": "2020-11-03T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2020-11-04T00:00:00",
+    "category": "Opportunities",
+    "value": 10950
+  },
+  {
+    "date": "2020-11-04T00:00:00",
+    "category": "Sales",
+    "value": 23325
+  },
+  {
+    "date": "2020-11-05T00:00:00",
+    "category": "Quotes",
+    "value": 10950
+  },
+  {
+    "date": "2020-11-08T00:00:00",
+    "category": "Opportunities",
+    "value": 12375
+  },
+  {
+    "date": "2020-11-08T00:00:00",
+    "category": "Quotes",
+    "value": 14900
+  },
+  {
+    "date": "2020-11-10T00:00:00",
+    "category": "Quotes",
+    "value": 13725
+  },
+  {
+    "date": "2020-11-12T00:00:00",
+    "category": "Sales",
+    "value": 5675
+  },
+  {
+    "date": "2020-11-16T00:00:00",
+    "category": "Quotes",
+    "value": 18350
+  },
+  {
+    "date": "2020-11-18T00:00:00",
+    "category": "Leads",
+    "value": 5675
+  },
+  {
+    "date": "2020-11-19T00:00:00",
+    "category": "Leads",
+    "value": 5675
+  },
+  {
+    "date": "2020-11-19T00:00:00",
+    "category": "Opportunities",
+    "value": 5675
+  },
+  {
+    "date": "2020-11-19T00:00:00",
+    "category": "Quotes",
+    "value": 25700
+  },
+  {
+    "date": "2020-11-19T00:00:00",
+    "category": "Sales",
+    "value": 3475
+  },
+  {
+    "date": "2020-11-20T00:00:00",
+    "category": "Leads",
+    "value": 8900
+  },
+  {
+    "date": "2020-11-22T00:00:00",
+    "category": "Quotes",
+    "value": 7375
+  },
+  {
+    "date": "2020-11-24T00:00:00",
+    "category": "Quotes",
+    "value": 13725
+  },
+  {
+    "date": "2020-11-24T00:00:00",
+    "category": "Sales",
+    "value": 13725
+  },
+  {
+    "date": "2020-11-25T00:00:00",
+    "category": "Opportunities",
+    "value": 21275
+  },
+  {
+    "date": "2020-11-25T00:00:00",
+    "category": "Quotes",
+    "value": 13325
+  },
+  {
+    "date": "2020-11-26T00:00:00",
+    "category": "Opportunities",
+    "value": 27450
+  },
+  {
+    "date": "2020-11-27T00:00:00",
+    "category": "Opportunities",
+    "value": 13325
+  },
+  {
+    "date": "2020-11-27T00:00:00",
+    "category": "Sales",
+    "value": 5675
+  },
+  {
+    "date": "2020-11-28T00:00:00",
+    "category": "Opportunities",
+    "value": 17200
+  },
+  {
+    "date": "2020-11-29T00:00:00",
+    "category": "Leads",
+    "value": 13725
+  },
+  {
+    "date": "2020-11-30T00:00:00",
+    "category": "Quotes",
+    "value": 3825
+  },
+  {
+    "date": "2020-12-01T00:00:00",
+    "category": "Quotes",
+    "value": 13325
+  },
+  {
+    "date": "2020-12-01T00:00:00",
+    "category": "Sales",
+    "value": 17200
+  },
+  {
+    "date": "2020-12-04T00:00:00",
+    "category": "Quotes",
+    "value": 21275
+  },
+  {
+    "date": "2020-12-04T00:00:00",
+    "category": "Sales",
+    "value": 8900
+  },
+  {
+    "date": "2020-12-07T00:00:00",
+    "category": "Sales",
+    "value": 7375
+  },
+  {
+    "date": "2020-12-09T00:00:00",
+    "category": "Leads",
+    "value": 19000
+  },
+  {
+    "date": "2020-12-09T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2020-12-13T00:00:00",
+    "category": "Quotes",
+    "value": 8375
+  },
+  {
+    "date": "2020-12-14T00:00:00",
+    "category": "Quotes",
+    "value": 17200
+  },
+  {
+    "date": "2020-12-15T00:00:00",
+    "category": "Sales",
+    "value": 6475
+  },
+  {
+    "date": "2020-12-16T00:00:00",
+    "category": "Opportunities",
+    "value": 6025
+  },
+  {
+    "date": "2020-12-17T00:00:00",
+    "category": "Quotes",
+    "value": 6025
+  },
+  {
+    "date": "2020-12-19T00:00:00",
+    "category": "Leads",
+    "value": 6025
+  },
+  {
+    "date": "2020-12-20T00:00:00",
+    "category": "Opportunities",
+    "value": 17725
+  },
+  {
+    "date": "2020-12-20T00:00:00",
+    "category": "Quotes",
+    "value": 3825
+  },
+  {
+    "date": "2020-12-21T00:00:00",
+    "category": "Sales",
+    "value": 8375
+  },
+  {
+    "date": "2020-12-22T00:00:00",
+    "category": "Quotes",
+    "value": 18725
+  },
+  {
+    "date": "2020-12-23T00:00:00",
+    "category": "Quotes",
+    "value": 19000
+  },
+  {
+    "date": "2020-12-26T00:00:00",
+    "category": "Quotes",
+    "value": 5625
+  },
+  {
+    "date": "2020-12-27T00:00:00",
+    "category": "Quotes",
+    "value": 4675
+  },
+  {
+    "date": "2020-12-27T00:00:00",
+    "category": "Sales",
+    "value": 5625
+  },
+  {
+    "date": "2020-12-28T00:00:00",
+    "category": "Quotes",
+    "value": 21875
+  },
+  {
+    "date": "2020-12-28T00:00:00",
+    "category": "Sales",
+    "value": 4400
+  },
+  {
+    "date": "2020-12-29T00:00:00",
+    "category": "Quotes",
+    "value": 700
+  },
+  {
+    "date": "2021-01-02T00:00:00",
+    "category": "Opportunities",
+    "value": 21500
+  },
+  {
+    "date": "2021-01-04T00:00:00",
+    "category": "Leads",
+    "value": 700
+  },
+  {
+    "date": "2021-01-04T00:00:00",
+    "category": "Sales",
+    "value": 3775
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "category": "Sales",
+    "value": 12475
+  },
+  {
+    "date": "2021-01-06T00:00:00",
+    "category": "Opportunities",
+    "value": 17725
+  },
+  {
+    "date": "2021-01-06T00:00:00",
+    "category": "Quotes",
+    "value": 4675
+  },
+  {
+    "date": "2021-01-07T00:00:00",
+    "category": "Sales",
+    "value": 4725
+  },
+  {
+    "date": "2021-01-08T00:00:00",
+    "category": "Quotes",
+    "value": 4675
+  },
+  {
+    "date": "2021-01-09T00:00:00",
+    "category": "Sales",
+    "value": 1000
+  },
+  {
+    "date": "2021-01-10T00:00:00",
+    "category": "Opportunities",
+    "value": 4725
+  },
+  {
+    "date": "2021-01-10T00:00:00",
+    "category": "Quotes",
+    "value": 8900
+  },
+  {
+    "date": "2021-01-11T00:00:00",
+    "category": "Quotes",
+    "value": 21050
+  },
+  {
+    "date": "2021-01-12T00:00:00",
+    "category": "Quotes",
+    "value": 700
+  },
+  {
+    "date": "2021-01-13T00:00:00",
+    "category": "Leads",
+    "value": 4475
+  },
+  {
+    "date": "2021-01-13T00:00:00",
+    "category": "Quotes",
+    "value": 3475
+  },
+  {
+    "date": "2021-01-14T00:00:00",
+    "category": "Opportunities",
+    "value": 12475
+  },
+  {
+    "date": "2021-01-14T00:00:00",
+    "category": "Quotes",
+    "value": 700
+  },
+  {
+    "date": "2021-01-14T00:00:00",
+    "category": "Sales",
+    "value": 3250
+  },
+  {
+    "date": "2021-01-15T00:00:00",
+    "category": "Sales",
+    "value": 12700
+  },
+  {
+    "date": "2021-01-17T00:00:00",
+    "category": "Opportunities",
+    "value": 25475
+  },
+  {
+    "date": "2021-01-20T00:00:00",
+    "category": "Leads",
+    "value": 11800
+  },
+  {
+    "date": "2021-01-20T00:00:00",
+    "category": "Opportunities",
+    "value": 11800
+  },
+  {
+    "date": "2021-01-20T00:00:00",
+    "category": "Sales",
+    "value": 7950
+  },
+  {
+    "date": "2021-01-21T00:00:00",
+    "category": "Quotes",
+    "value": 25975
+  },
+  {
+    "date": "2021-01-22T00:00:00",
+    "category": "Sales",
+    "value": 8900
+  },
+  {
+    "date": "2021-01-27T00:00:00",
+    "category": "Opportunities",
+    "value": 13100
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Opportunities",
+    "value": 12200
+  },
+  {
+    "date": "2021-01-30T00:00:00",
+    "category": "Quotes",
+    "value": 13100
+  },
+  {
+    "date": "2021-02-01T00:00:00",
+    "category": "Quotes",
+    "value": 13100
+  },
+  {
+    "date": "2021-02-02T00:00:00",
+    "category": "Sales",
+    "value": 13500
+  },
+  {
+    "date": "2021-02-03T00:00:00",
+    "category": "Sales",
+    "value": 13100
+  },
+  {
+    "date": "2021-02-04T00:00:00",
+    "category": "Quotes",
+    "value": 12725
+  },
+  {
+    "date": "2021-02-07T00:00:00",
+    "category": "Quotes",
+    "value": 10250
+  },
+  {
+    "date": "2021-02-07T00:00:00",
+    "category": "Sales",
+    "value": 5300
+  },
+  {
+    "date": "2021-02-08T00:00:00",
+    "category": "Opportunities",
+    "value": 14725
+  },
+  {
+    "date": "2021-02-08T00:00:00",
+    "category": "Sales",
+    "value": 20525
+  },
+  {
+    "date": "2021-02-09T00:00:00",
+    "category": "Opportunities",
+    "value": 10250
+  },
+  {
+    "date": "2021-02-10T00:00:00",
+    "category": "Quotes",
+    "value": 10250
+  },
+  {
+    "date": "2021-02-12T00:00:00",
+    "category": "Sales",
+    "value": 36075
+  },
+  {
+    "date": "2021-02-13T00:00:00",
+    "category": "Opportunities",
+    "value": 10250
+  },
+  {
+    "date": "2021-02-15T00:00:00",
+    "category": "Sales",
+    "value": 10250
+  },
+  {
+    "date": "2021-02-17T00:00:00",
+    "category": "Quotes",
+    "value": 7875
+  },
+  {
+    "date": "2021-02-20T00:00:00",
+    "category": "Sales",
+    "value": 11475
+  },
+  {
+    "date": "2021-02-21T00:00:00",
+    "category": "Quotes",
+    "value": 7875
+  },
+  {
+    "date": "2021-02-23T00:00:00",
+    "category": "Sales",
+    "value": 9175
+  },
+  {
+    "date": "2021-02-24T00:00:00",
+    "category": "Sales",
+    "value": 10250
+  },
+  {
+    "date": "2021-02-25T00:00:00",
+    "category": "Sales",
+    "value": 17000
+  },
+  {
+    "date": "2021-02-26T00:00:00",
+    "category": "Sales",
+    "value": 12425
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Quotes",
+    "value": 7875
+  },
+  {
+    "date": "2021-02-28T00:00:00",
+    "category": "Sales",
+    "value": 6650
+  },
+  {
+    "date": "2021-03-05T00:00:00",
+    "category": "Sales",
+    "value": 11475
+  },
+  {
+    "date": "2021-03-06T00:00:00",
+    "category": "Leads",
+    "value": 1975
+  },
+  {
+    "date": "2021-03-06T00:00:00",
+    "category": "Opportunities",
+    "value": 21600
+  },
+  {
+    "date": "2021-03-06T00:00:00",
+    "category": "Quotes",
+    "value": 19175
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Opportunities",
+    "value": 11925
+  },
+  {
+    "date": "2021-03-07T00:00:00",
+    "category": "Sales",
+    "value": 7875
+  },
+  {
+    "date": "2021-03-08T00:00:00",
+    "category": "Opportunities",
+    "value": 21600
+  },
+  {
+    "date": "2021-03-13T00:00:00",
+    "category": "Sales",
+    "value": 1950
+  },
+  {
+    "date": "2021-03-14T00:00:00",
+    "category": "Quotes",
+    "value": 13675
+  },
+  {
+    "date": "2021-03-17T00:00:00",
+    "category": "Opportunities",
+    "value": 1950
+  },
+  {
+    "date": "2021-03-19T00:00:00",
+    "category": "Sales",
+    "value": 1975
+  },
+  {
+    "date": "2021-03-21T00:00:00",
+    "category": "Sales",
+    "value": 1700
+  },
+  {
+    "date": "2021-03-23T00:00:00",
+    "category": "Sales",
+    "value": 3250
+  },
+  {
+    "date": "2021-03-24T00:00:00",
+    "category": "Opportunities",
+    "value": 11375
+  },
+  {
+    "date": "2021-03-24T00:00:00",
+    "category": "Sales",
+    "value": 3950
+  },
+  {
+    "date": "2021-03-25T00:00:00",
+    "category": "Sales",
+    "value": 2350
+  },
+  {
+    "date": "2021-03-29T00:00:00",
+    "category": "Quotes",
+    "value": 2150
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Opportunities",
+    "value": 9800
+  },
+  {
+    "date": "2021-04-05T00:00:00",
+    "category": "Sales",
+    "value": 9800
+  },
+  {
+    "date": "2021-04-06T00:00:00",
+    "category": "Leads",
+    "value": 2525
+  },
+  {
+    "date": "2021-04-06T00:00:00",
+    "category": "Opportunities",
+    "value": 2150
+  },
+  {
+    "date": "2021-04-06T00:00:00",
+    "category": "Sales",
+    "value": 11425
+  },
+  {
+    "date": "2021-04-07T00:00:00",
+    "category": "Leads",
+    "value": 2150
+  },
+  {
+    "date": "2021-04-08T00:00:00",
+    "category": "Quotes",
+    "value": 12100
+  },
+  {
+    "date": "2021-04-10T00:00:00",
+    "category": "Sales",
+    "value": 11975
+  },
+  {
+    "date": "2021-04-12T00:00:00",
+    "category": "Sales",
+    "value": 2300
+  },
+  {
+    "date": "2021-04-13T00:00:00",
+    "category": "Sales",
+    "value": 14500
+  },
+  {
+    "date": "2021-04-14T00:00:00",
+    "category": "Sales",
+    "value": 12950
+  },
+  {
+    "date": "2021-04-15T00:00:00",
+    "category": "Leads",
+    "value": 12275
+  },
+  {
+    "date": "2021-04-15T00:00:00",
+    "category": "Quotes",
+    "value": 2525
+  },
+  {
+    "date": "2021-04-17T00:00:00",
+    "category": "Opportunities",
+    "value": 13050
+  },
+  {
+    "date": "2021-04-20T00:00:00",
+    "category": "Sales",
+    "value": 25250
+  },
+  {
+    "date": "2021-04-22T00:00:00",
+    "category": "Opportunities",
+    "value": 9050
+  },
+  {
+    "date": "2021-04-22T00:00:00",
+    "category": "Sales",
+    "value": 18725
+  },
+  {
+    "date": "2021-04-26T00:00:00",
+    "category": "Sales",
+    "value": 15400
+  },
+  {
+    "date": "2021-04-28T00:00:00",
+    "category": "Sales",
+    "value": 7725
+  },
+  {
+    "date": "2021-04-30T00:00:00",
+    "category": "Opportunities",
+    "value": 7975
+  },
+  {
+    "date": "2021-05-01T00:00:00",
+    "category": "Leads",
+    "value": 7975
+  },
+  {
+    "date": "2021-05-02T00:00:00",
+    "category": "Opportunities",
+    "value": 12650
+  },
+  {
+    "date": "2021-05-03T00:00:00",
+    "category": "Quotes",
+    "value": 7100
+  },
+  {
+    "date": "2021-05-04T00:00:00",
+    "category": "Quotes",
+    "value": 7975
+  },
+  {
+    "date": "2021-05-05T00:00:00",
+    "category": "Opportunities",
+    "value": 9050
+  },
+  {
+    "date": "2021-05-07T00:00:00",
+    "category": "Quotes",
+    "value": 7975
+  },
+  {
+    "date": "2021-05-09T00:00:00",
+    "category": "Opportunities",
+    "value": 7975
+  },
+  {
+    "date": "2021-05-11T00:00:00",
+    "category": "Quotes",
+    "value": 7150
+  },
+  {
+    "date": "2021-05-11T00:00:00",
+    "category": "Sales",
+    "value": 12475
+  },
+  {
+    "date": "2021-05-15T00:00:00",
+    "category": "Opportunities",
+    "value": 10000
+  },
+  {
+    "date": "2021-05-15T00:00:00",
+    "category": "Quotes",
+    "value": 7150
+  },
+  {
+    "date": "2021-05-16T00:00:00",
+    "category": "Sales",
+    "value": 8900
+  },
+  {
+    "date": "2021-05-17T00:00:00",
+    "category": "Quotes",
+    "value": 12325
+  },
+  {
+    "date": "2021-05-20T00:00:00",
+    "category": "Sales",
+    "value": 19025
+  },
+  {
+    "date": "2021-05-24T00:00:00",
+    "category": "Sales",
+    "value": 12325
+  },
+  {
+    "date": "2021-05-25T00:00:00",
+    "category": "Leads",
+    "value": 12325
+  },
+  {
+    "date": "2021-05-25T00:00:00",
+    "category": "Quotes",
+    "value": 9450
+  },
+  {
+    "date": "2021-05-26T00:00:00",
+    "category": "Sales",
+    "value": 10000
+  },
+  {
+    "date": "2021-05-29T00:00:00",
+    "category": "Leads",
+    "value": 17150
+  },
+  {
+    "date": "2021-05-30T00:00:00",
+    "category": "Leads",
+    "value": 10000
+  },
+  {
+    "date": "2021-05-30T00:00:00",
+    "category": "Quotes",
+    "value": 10000
+  },
+  {
+    "date": "2021-06-04T00:00:00",
+    "category": "Sales",
+    "value": 9450
+  }
+]

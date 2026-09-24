@@ -1,0 +1,492 @@
+[
+  {
+    "id": 3,
+    "name": "Arthur Miller",
+    "position": "CTO",
+    "status": "Salaried",
+    "company": "Super Mart of the West",
+    "phone": "(310) 555-8583",
+    "email": "arthurm@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 4,
+    "name": "Robert Reagan",
+    "position": "CMO",
+    "status": "Salaried",
+    "company": "Electronics Depot",
+    "phone": "(818) 555-2387",
+    "email": "robertr@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 5,
+    "name": "Greta Sims",
+    "position": "HR Manager",
+    "status": "Salaried",
+    "company": "K&S Music",
+    "phone": "(818) 555-6546",
+    "email": "gretas@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 6,
+    "name": "Brett Wade",
+    "position": "IT Manager",
+    "status": "Salaried",
+    "company": "Tom's Club",
+    "phone": "(626) 555-0358",
+    "email": "brettw@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 7,
+    "name": "Sandra Johnson",
+    "position": "Controller",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "(562) 555-2082",
+    "email": "sandraj@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 8,
+    "name": "Ed Holmes",
+    "position": "Sales Manager",
+    "status": "Salaried",
+    "company": "Walters",
+    "phone": "(310) 555-1288",
+    "email": "edwardh@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 9,
+    "name": "Barb Banks",
+    "position": "Support Manager",
+    "status": "Salaried",
+    "company": "StereoShack",
+    "phone": "(310) 555-3355",
+    "email": "barbarab@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 10,
+    "name": "Kevin Carter",
+    "position": "Shipping Manager",
+    "status": "Salaried",
+    "company": "Circuit Town",
+    "phone": "(213) 555-2840",
+    "email": "kevinc@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 11,
+    "name": "Cindy Stanwick",
+    "position": "HR Assistant",
+    "status": "Salaried",
+    "company": "Premier Buy",
+    "phone": "(818) 555-6655",
+    "email": "cindys@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 12,
+    "name": "Sammy Hill",
+    "position": "Sales Assistant",
+    "status": "Salaried",
+    "company": "ElectrixMax",
+    "phone": "(626) 555-7292",
+    "email": "sammyh@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 13,
+    "name": "Davey Jones",
+    "position": "Shipping Assistant",
+    "status": "Salaried",
+    "company": "Video Emporium",
+    "phone": "(626) 555-0281",
+    "email": "davidj@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 14,
+    "name": "Victor Norris",
+    "position": "Shipping Assistant",
+    "status": "Salaried",
+    "company": "Screen Shop",
+    "phone": "(213) 555-9278",
+    "email": "victorn@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 15,
+    "name": "Mary Stern",
+    "position": "Shipping Assistant",
+    "status": "Salaried",
+    "company": "Braeburn",
+    "phone": "(818) 555-7857",
+    "email": "marys@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 16,
+    "name": "Robin Cosworth",
+    "position": "Shipping Assistant",
+    "status": "Salaried",
+    "company": "PriceCo",
+    "phone": "(818) 555-0942",
+    "email": "robinc@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 17,
+    "name": "Kelly Rodriguez",
+    "position": "Support Assistant",
+    "status": "Salaried",
+    "company": "Ultimate Gadget",
+    "phone": "(818) 555-9248",
+    "email": "kellyr@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 18,
+    "name": "James Anderson",
+    "position": "Support Assistant",
+    "status": "Salaried",
+    "company": "EZ Stop",
+    "phone": "(323) 555-4702",
+    "email": "jamesa@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 19,
+    "name": "Antony Remmen",
+    "position": "Support Assistant",
+    "status": "Salaried",
+    "company": "Clicker",
+    "phone": "(310) 555-6625",
+    "email": "anthonyr@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 20,
+    "name": "Olivia Peyton",
+    "position": "Sales Assistant",
+    "status": "Salaried",
+    "company": "Store of America",
+    "phone": "(310) 555-2728",
+    "email": "oliviap@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 21,
+    "name": "Taylor Riley",
+    "position": "Network Admin",
+    "status": "Salaried",
+    "company": "Zone Toys",
+    "phone": "(310) 555-7276",
+    "email": "taylorr@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 22,
+    "name": "Amelia Harper",
+    "position": "Network Admin",
+    "status": "Salaried",
+    "company": "ACME",
+    "phone": "(213) 555-4276",
+    "email": "ameliah@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 23,
+    "name": "Wally Hobbs",
+    "position": "Programmer",
+    "status": "Salaried",
+    "company": "Super Mart of the West",
+    "phone": "(818) 555-8872",
+    "email": "wallyh@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 24,
+    "name": "Brad Jameson",
+    "position": "Programmer",
+    "status": "Salaried",
+    "company": "Electronics Depot",
+    "phone": "(818) 555-4646",
+    "email": "bradleyj@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 25,
+    "name": "Karen Goodson",
+    "position": "Programmer",
+    "status": "Salaried",
+    "company": "K&S Music",
+    "phone": "(626) 555-0908",
+    "email": "kareng@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 26,
+    "name": "Marcus Orbison",
+    "position": "Travel Coordinator",
+    "status": "Salaried",
+    "company": "Tom's Club",
+    "phone": "(213) 555-7098",
+    "email": "marcuso@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 27,
+    "name": "Sandy Bright",
+    "position": "Benefits Coordinator",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "(818) 555-0524",
+    "email": "sandrab@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 28,
+    "name": "Morgan Kennedy",
+    "position": "Graphic Designer",
+    "status": "Salaried",
+    "company": "Walters",
+    "phone": "(818) 555-8238",
+    "email": "morgank@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 29,
+    "name": "Violet Bailey",
+    "position": "Jr Graphic Designer",
+    "status": "Salaried",
+    "company": "StereoShack",
+    "phone": "(818) 555-2478",
+    "email": "violetb@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 30,
+    "name": "Ken Samuelson",
+    "position": "Ombudsman",
+    "status": "Salaried",
+    "company": "Circuit Town",
+    "phone": "(562) 555-9282",
+    "email": "kents@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 31,
+    "name": "Nat Maguiree",
+    "position": "Trainer",
+    "status": "Salaried",
+    "company": "Premier Buy",
+    "phone": "(562) 555-8377",
+    "email": "nataliem@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 32,
+    "name": "Bart Arnaz",
+    "position": "Director of Engineering",
+    "status": "Salaried",
+    "company": "ElectrixMax",
+    "phone": "(714) 555-2000",
+    "email": "barta@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 33,
+    "name": "Leah Simpson",
+    "position": "Test Coordinator",
+    "status": "Salaried",
+    "company": "Video Emporium",
+    "phone": "(562) 559-5830",
+    "email": "leahs@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 34,
+    "name": "Arnie Schwartz",
+    "position": "Engineer",
+    "status": "Salaried",
+    "company": "Screen Shop",
+    "phone": "(714) 555-8882",
+    "email": "arnolds@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 35,
+    "name": "Billy Zimmer",
+    "position": "Engineer",
+    "status": "Salaried",
+    "company": "Braeburn",
+    "phone": "(909) 555-6939",
+    "email": "williamz@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 36,
+    "name": "Samantha Piper",
+    "position": "Engineer",
+    "status": "Salaried",
+    "company": "PriceCo",
+    "phone": "(323) 555-4512",
+    "email": "samanthap@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 37,
+    "name": "Maggie Boxter",
+    "position": "Engineer",
+    "status": "Salaried",
+    "company": "Ultimate Gadget",
+    "phone": "(714) 555-7239",
+    "email": "margaretb@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 38,
+    "name": "Terry Bradley",
+    "position": "QA Engineer",
+    "status": "Salaried",
+    "company": "EZ Stop",
+    "phone": "(805) 555-2788",
+    "email": "terryb@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 39,
+    "name": "Gabe Jones",
+    "position": "Retail Coordinator",
+    "status": "Salaried",
+    "company": "Clicker",
+    "phone": "(310) 555-5395",
+    "email": "gabrielj@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 40,
+    "name": "Lucy Ball",
+    "position": "Sales Assistant",
+    "status": "Salaried",
+    "company": "Store of America",
+    "phone": "(310) 555-3357",
+    "email": "lucyb@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 41,
+    "name": "Jim Packard",
+    "position": "Retail Sales Manager",
+    "status": "Commission",
+    "company": "Zone Toys",
+    "phone": "(661) 555-8224",
+    "email": "jamesp@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 42,
+    "name": "Hannah Brookly",
+    "position": "Online Sales Manager",
+    "status": "Commission",
+    "company": "ACME",
+    "phone": "(805) 555-3627",
+    "email": "hannahb@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 43,
+    "name": "Harv Mudd",
+    "position": "Retail Sales Manager",
+    "status": "Commission",
+    "company": "Super Mart of the West",
+    "phone": "(831) 555-3895",
+    "email": "harveym@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 44,
+    "name": "Clark Morgan",
+    "position": "Retail Sales Manager",
+    "status": "Commission",
+    "company": "Electronics Depot",
+    "phone": "(925) 555-2525",
+    "email": "clarkm@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 45,
+    "name": "Todd Hoffman",
+    "position": "Retail Sales Manager",
+    "status": "Commission",
+    "company": "K&S Music",
+    "phone": "(925) 555-3579",
+    "email": "toddh@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 46,
+    "name": "Jackie Garmin",
+    "position": "Support Assistant",
+    "status": "Salaried",
+    "company": "Tom's Club",
+    "phone": "(213) 555-1824",
+    "email": "jackg@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 47,
+    "name": "Lincoln Bartlett",
+    "position": "Sales Assistant",
+    "status": "Salaried",
+    "company": "E-Mart",
+    "phone": "(213) 555-8272",
+    "email": "lincolnb@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 48,
+    "name": "Brad Farkus",
+    "position": "Engineer",
+    "status": "Terminated",
+    "company": "Walters",
+    "phone": "(213) 555-3626",
+    "email": "bradf@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 49,
+    "name": "Jenny Hobbs",
+    "position": "Shipping Assistant",
+    "status": "Terminated",
+    "company": "StereoShack",
+    "phone": "(310) 555-2668",
+    "email": "jennyh@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  },
+  {
+    "id": 50,
+    "name": "Dallas Lou",
+    "position": "Shipping Assistant",
+    "status": "Terminated",
+    "company": "Circuit Town",
+    "phone": "(213) 555-8357",
+    "email": "dallas@dx-email.com",
+    "assignedTo": "John Heart"
+  },
+  {
+    "id": 51,
+    "name": "Stu Pizaro",
+    "position": "Engineer",
+    "status": "Terminated",
+    "company": "Premier Buy",
+    "phone": "(213) 555-2552",
+    "email": "stu@dx-email.com",
+    "assignedTo": "Samantha Bright"
+  }
+]
