@@ -7,6 +7,18 @@
     <title>Blazor CRM | DevExpress</title>
     <base href="/blazor-crm-demo-rtl/" />
     <link rel="icon" type="image/ico" href="favicon.ico" />
+    <script>
+        (function () {
+            const isDark = /(?:^|;\s*)is-dark-theme=true(?:;|$)/.test(document.cookie);
+            const mode = isDark ? "dark" : "light";
+            const themeName = isDark ? "Fluent-Dark" : "Fluent-Light";
+            const version = "26.2.0.0";
+            for (const path of ["core", "global", `bootstrap/fluent-${mode}.bs5`, `modes/${mode}`, "accents/blue"])
+                document.write(`<link rel="stylesheet" href="_content/DevExpress.Blazor.Themes.Fluent/${path}.min.css?v${version}" type="text/css" data-dx-theme="${themeName}">`);
+        })();
+    </script>
+    <link rel="stylesheet" href="app.css" />
+    <link rel="stylesheet" href="BlazorDemo.CRM.Static.styles.css" />
     <style>
         html, body, #app {
             height: 100%;

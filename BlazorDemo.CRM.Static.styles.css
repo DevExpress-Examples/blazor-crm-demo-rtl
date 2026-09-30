@@ -199,6 +199,11 @@
     mask-image: url("images/icons/arrow-export-up.svg");
 }
 
+/* RTL-WORKAROUND: DxRangeSelector anchors slider marker text as if LTR, so it overflows the marker. Remove once fixed in the product. */
+[b-1lt11chfhb] .dx-rtl .dxrs .slider-marker text {
+    text-anchor: end;
+}
+
 .chart-tooltip[b-1lt11chfhb] {
     padding: 0.5rem;
 }
@@ -430,6 +435,10 @@
     display: flex;
     flex-shrink: 0;
     justify-content: space-between;
+}
+
+.contact-details-header[b-wc5kr5e1rj]  .status {
+    margin-inline-start: 1em;
 }
 
 .contact-details-body[b-wc5kr5e1rj] {
@@ -845,6 +854,7 @@
     margin-inline-end: 0.5rem;
     width: 1rem;
     height: 1rem;
+    flex-shrink: 0;
     display: block;
     mask-repeat: no-repeat;
     mask-position: center center;
@@ -1296,13 +1306,22 @@ a[b-ia953363fq] {
     color: var(--dxds-color-content);
 }
 
+/* RTL-WORKAROUND: DxScheduler mirrors the hour and minute cells of the time ruler, so "3 00" reads "00 3". Show the hour alone. Remove once fixed in the product. */
+[b-othz740aa4] td.dxbl-sc-minute-cell:dir(rtl) > span {
+    visibility: hidden;
+}
+
+/* RTL-WORKAROUND: DxScheduler sets unicode-bidi: plaintext on the appointment time in RTL. Remove once fixed in the product. */
+[b-othz740aa4] .dxbl-scheduler .dxbl-sc-apt-time:dir(rtl) {
+    unicode-bidi: normal;
+}
+
 .h-100[b-othz740aa4] {
     height: 100%;
 }
 /* /../BlazorDemo.CRM.Client/Components/Shared/Status.razor.rz.scp.css */
 .status[b-c453r6zaf0] {
     font-size: 0.9em;
-    margin-inline-start: 1em;
 }
 
 .status[b-c453r6zaf0]::before {
